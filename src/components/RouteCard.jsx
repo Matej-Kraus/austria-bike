@@ -116,9 +116,32 @@ export default function RouteCard({ route, open, onToggle }) {
           <div className="p-4 space-y-5">
             <p className="text-[15px] leading-relaxed">{route.see}</p>
 
+            {route.sights?.length > 0 && (
+              <div>
+                <div className="label text-muted mb-2">Kam se po cestě podívat</div>
+                <ol className="space-y-3">
+                  {route.sights.map((s) => (
+                    <li key={s.name}>
+                      <div className="flex items-baseline gap-2">
+                        <span
+                          className={`text-[11px] font-medium uppercase tracking-wide ${
+                            s.kind === "pamatka" ? "text-warn" : "text-teal"
+                          }`}
+                        >
+                          {s.kind === "pamatka" ? "památka" : "krajina"}
+                        </span>
+                        <span className="text-sm font-semibold">{s.name}</span>
+                      </div>
+                      <p className="text-sm text-muted leading-relaxed mt-0.5">{s.look}</p>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
+
             {route.photos.length > 0 && (
               <div>
-                <div className="label text-muted mb-2">Co uvidíš po cestě</div>
+                <div className="label text-muted mb-2">Jak to v létě vypadá</div>
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
                   {route.photos.map((p) => (
                     <figure key={p.src} className="min-w-0">
@@ -129,7 +152,8 @@ export default function RouteCard({ route, open, onToggle }) {
                         className="w-full h-28 object-cover rounded-lg bg-wash"
                       />
                       <figcaption className="text-[11px] text-muted mt-1 leading-tight">
-                        {p.caption}
+                        <span className="font-medium text-ink">{p.caption}</span>
+                        {p.kind === "pamatka" ? " · památka" : " · krajina"}
                         <a
                           href={p.page}
                           target="_blank"

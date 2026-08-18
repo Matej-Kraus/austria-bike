@@ -31,16 +31,10 @@ const strip = (html) =>
     .slice(0, 90);
 
 const REJECT =
-  /karte|map[_ ]|_map|wappen|coat of arms|flagge|flag of|logo|icon|diagram|lageplan|positionskarte|locator|umgebungskarte|im bezirk|diskussion|schematic|signature|\.svg|svg\.png/i;
+  /karte|map[_ ]|_map|wappen|coat of arms|flagge|flag of|logo|icon|diagram|lageplan|positionskarte|locator|umgebungskarte|im bezirk|diskussion|schematic|signature|\.svg|svg\.png|ski|schnee|snow|winter|loipe|piste|schifahren|november|februar|jänner|january|december/i;
 
 function termsOf(route) {
-  const fromWps = (route.wps ?? []).map((w) =>
-    String(w[0])
-      .replace(/ \(\w+\)$/g, "")
-      .replace(/ \d[\d\s.]*m.*$/i, "")
-      .trim()
-  );
-  return [...new Set([...(route.photos ?? []), ...fromWps])].filter(Boolean);
+  return [...new Set((route.sights ?? []).map((s) => s.query).filter(Boolean))];
 }
 
 async function api(base, params) {
@@ -227,18 +221,21 @@ function pickRoundRobin(photos, want) {
 }
 
 for (const r of ROUTES) {
-  const preferred = [...new Set(r.photos ?? [])].filter(Boolean);
-  const extra = termsOf(r).filter((t) => !preferred.includes(t));
+  const terms = termsOf(r);
   const byFile = new Map();
+  const bySight = new Map((r.sights ?? []).map((s) => [s.query, s]));
 
-  for (const term of preferred) await collect(term, byFile);
-  for (const term of extra) {
-    const captions = new Set([...byFile.values()].map((p) => p.caption));
-    if (captions.size >= 4 && byFile.size >= WANT) break;
-    await collect(term, byFile);
-  }
+  for (const term of terms) await collect(term, byFile);
 
-  const picked = pickRoundRobin([...byFile.values()], WANT).map(({ file, mime, ...rest }) => rest);
+  const picked = pickRoundRobin([...byFile.values()], WANT).map(({ file, mime, ...rest }) => {
+    const sight = bySight.get(rest.caption);
+    return {
+      ...rest,
+      caption: sight?.name ?? rest.caption,
+      kind: sight?.kind ?? "krajina",
+      look: sight?.look ?? "",
+    };
+  });
 
   out[r.id] = picked;
   console.log(

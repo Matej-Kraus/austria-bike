@@ -5,13 +5,9 @@
  *
  * fallback = hrubý odhad, použije se jen když generovaná data chybí.
  * kind = okruh (smyčka) | vyjezd (nahoru a dolů stejnou silnicí).
+ * sights = co uvidíš / kam zajet se podívat. query = hledání fotky na Commons.
  */
 
-/*
- * Základna = ubytování v 9520 Sattendorf. Každá trasa odsud vyjíždí a sem se
- * zase vrací; Villach a spol. jsou jen průjezdní body. Souřadnice ověřené
- * v OSM (obec Sattendorf, 538 m n. m.), ne samota na Ossiachbergu nad vesnicí.
- */
 export const BASE = {
   lat: 46.66471,
   lon: 13.92003,
@@ -20,7 +16,6 @@ export const BASE = {
   elev: 538,
 };
 
-/* Vlaková stanice pod vesnicí — 650 m od ubytování, geografický kontext. */
 export const STATION = {
   lat: 46.66304,
   lon: 13.91634,
@@ -50,9 +45,13 @@ export const ROUTES = [
     claim: "Hrad nad jezerem a historické náměstí",
     kind: "okruh",
     tags: ["pamatka", "mesto", "hory"],
-    see: "Hrad Landskron stojí na skále přesně mezi jezerem a městem — vidíš z něj na obě strany naráz. Dole historické náměstí ve Villachu.",
-    note: "Výjezd na hrad je krátký, ale prudký. Nahoře restaurace s panoramatickou terasou a sokolnická show.",
-    photos: ["Burg Landskron", "Villach Hauptplatz", "Ossiacher See", "Annenheim"],
+    see: "Krátký okruh: nejdřív břeh jezera, pak hrad na skále mezi vodou a městem, dole starý Villach.",
+    note: "Výjezd na hrad je krátký, ale prudký. Kolo nech u parkoviště pod hradem — posledních metrů je to pěšky.",
+    sights: [
+      { kind: "krajina", name: "Ossiacher See u Annenheimu", look: "Hned po startu zastav u mola v Annenheimu. Jezero v létě, Gerlitzen nad ním — to je ten výhled z okna ubytování, akorát z kola.", query: "Ossiacher See Sommer" },
+      { kind: "pamatka", name: "Burg Landskron", look: "Kolo dolů u restaurace. Nahoře terasa na obě strany (jezero i Villach) a sokolnická show Affenberg / Adlerarena — stojí za půlhodinu, i když nejedeš na představení.", query: "Burg Landskron" },
+      { kind: "pamatka", name: "Hauptplatz Villach", look: "Historické náměstí, kašna, kavárny. Kolo opři a jdi pěšky do centra — od řeky Drávy je to dvě minuty.", query: "Villach Hauptplatz" },
+    ],
     wps: [
       ["Annenheim", 46.65872, 13.90054],
       ["Burg Landskron", 46.64212, 13.89668],
@@ -66,9 +65,13 @@ export const ROUTES = [
     claim: "Celé domácí jezero ze všech stran",
     kind: "okruh",
     tags: ["jezero", "rovina", "pamatka"],
-    see: "Celé jezero ze všech stran. Na jižním břehu benediktinský klášter Stift Ossiach, nad severním hřeben Gerlitzenu.",
-    note: "Jižní břeh je klidná vedlejší silnice — nejpříjemnější část okruhu.",
-    photos: ["Stift Ossiach", "Ossiacher See", "Ossiach", "Steindorf am Ossiacher See", "Bodensdorf"],
+    see: "Celé jezero ze všech stran. Sever pod Gerlitzenem, jih kolem kláštera, voda pořád vedle tebe.",
+    note: "Jižní břeh (L49) je klidnější. U Steindorfu se drž silnice, ať neuhneš na šotolinu u rákosin.",
+    sights: [
+      { kind: "krajina", name: "Severní břeh a Gerlitzen", look: "Mezi Sattendorfem a Bodensdorfem jezero vlevo, hora vpravo. V létě se tu koupe skoro z každého mola — stačí sundat tretry.", query: "Ossiacher See Bodensdorf" },
+      { kind: "krajina", name: "Rákosiny u Steindorfu", look: "Východní konec jezera, Bleistätter Moor. Zastav u lávky, ale na kole zůstaň na asfaltu — do rákosí vede šotolina.", query: "Ossiacher See Steindorf" },
+      { kind: "pamatka", name: "Stift Ossiach", look: "Benediktinský klášter na jižním břehu. Kostel, nádvoří, v létě koncerty Carinthischer Sommer. I bez lístku stojí za obchůzku nádvoří a kávu v klášterní kavárně.", query: "Stift Ossiach" },
+    ],
     wps: [
       ["Bodensdorf", 46.68609, 13.97257],
       ["Steindorf", 46.6981, 14.00902],
@@ -83,9 +86,13 @@ export const ROUTES = [
     claim: "Krátký výjezd přímo nad ubytování",
     kind: "vyjezd",
     tags: ["kopec", "hory"],
-    see: "Kanzelhöhe leží v 1 450 metrech přímo nad ubytováním. Ossiacher See máš shora jako na dlani.",
-    note: "Tohle je výjezd z Annenheimu na Kanzelhöhe. Jiná, těžší silnice je Gerlitzen Alpenstraße z Bodensdorfu na Feuerberg (1 767 m) — ta je v seznamu zvlášť. Krátké, ale prudké, průměr kolem 9 %. Nahoru a dolů stejnou silnicí — jiná asfaltka z vrcholu nevede.",
-    photos: ["Gerlitzen", "Kanzelhöhe", "Ossiacher See", "Annenheim"],
+    see: "Nahoru z Annenheimu na Kanzelhöhe. Ossiacher See máš shora jako na dlani — v září ještě zelené louky, ne lyžařský svah.",
+    note: "Tohle je výjezd z Annenheimu na Kanzelhöhe, ne Alpenstraße na Feuerberg. Nahoru a dolů stejnou silnicí, jiná asfaltka z vrcholu nevede.",
+    sights: [
+      { kind: "krajina", name: "Jezero z Kanzelhöhe", look: "U hotelu / observatoře se otoč. Celý Ossiacher See, Villach, za ním Karavanky. Tohle je důvod, proč ten kopec vůbec lézt.", query: "Kanzelhöhe Ossiacher See" },
+      { kind: "krajina", name: "Hřeben Gerlitzenu", look: "Nahoře je alpská louka, v září ještě bez sněhu. Kousek pěšky od silnice na vyhlídku, kolo nech u cesty.", query: "Gerlitzen Sommer" },
+      { kind: "pamatka", name: "Sonnenobservatorium Kanzelhöhe", look: "Sluneční observatoř univerzity ve Štýrském Hradci. Zvenku je to ta bílá kopule — když mají otevřeno, pustí tě na krátkou prohlídku.", query: "Sonnenobservatorium Kanzelhöhe" },
+    ],
     wps: [
       ["Annenheim", 46.65872, 13.90054],
       ["Kanzelhöhe 1 500 m", 46.68333, 13.90889],
@@ -100,9 +107,13 @@ export const ROUTES = [
     kind: "vyjezd",
     tags: ["kopec", "hory"],
     official: "Rennrad Region Villach",
-    see: "Skutečný HC kopec regionu. Začíná v Bodensdorfu, osm kilometrů od postele, a šplhá 12,6 km průměrem 10 % k hotelu Feuerberg. Z okna ho vidíš celý.",
-    note: "Oficiální rennrad trasa regionu. Sjezd má špatný asfalt — většina recenzí Climbfinderu ho označuje za rozbitý, brzdit s rozumem. Silnice je placená pro auta; pro kola to ověř na mýtné bráně. Tohle NENÍ výjezd na Kanzelhöhe — tam se z Feuerbergu na kole nedostaneš. Nahoru a dolů stejnou silnicí.",
-    photos: ["Gerlitzen", "Ossiacher See", "Bodensdorf", "Gerlitzen Alpenstraße"],
+    see: "HC výjezd z Bodensdorfu. Čím výš, tím víc jezera pod tebou, nahoře alpské louky a hotel Feuerberg.",
+    note: "Sjezd má občas rozbitý asfalt, brzdit s rozumem. Pro auta mýto. Nahoru a dolů stejnou silnicí — na Kanzelhöhe se odsud na kole nedostaneš.",
+    sights: [
+      { kind: "krajina", name: "Ossiacher See z Alpenstraße", look: "Zhruba v polovině výjezdu se otevírá výhled na celé jezero. Zastav v zatáčce s parkovištěm, ať to není jen z kola.", query: "Gerlitzen Alpenstraße" },
+      { kind: "krajina", name: "Louky u Feuerbergu", look: "Poslední kilometry už jsou vysokohorské pastviny. V září ještě zelené. Z terasy hotelu je panorama Nockberg i Karavanek.", query: "Gerlitzen Feuerberg" },
+      { kind: "krajina", name: "Jezero z vrcholu", look: "Totéž jezero jako z Kanzelhöhe, ale z 1 767 m a z jiné strany hory. Stojí za to vylézt i kvůli tomuhle úhlu.", query: "Ossiacher See von Gerlitzen" },
+    ],
     wps: [
       ["Bodensdorf", 46.68609, 13.97257],
       ["Tschöran", 46.68203, 13.96003],
@@ -118,9 +129,13 @@ export const ROUTES = [
     claim: "Rákosiny u Steindorfu a arkádové náměstí",
     kind: "okruh",
     tags: ["jezero", "mesto", "klid"],
-    see: "Východní konec jezera s rákosinami u Steindorfu a staré městečko Feldkirchen s arkádovým náměstím.",
-    note: "Mezi Steindorfem a Feldkirchenem vedou vedlejší silnice mezi statky. Zpátky už po jižním břehu jezera.",
-    photos: ["Feldkirchen in Kärnten", "Steindorf am Ossiacher See", "Ossiacher See", "Stift Ossiach"],
+    see: "Východní konec jezera, statky, pak staré městečko Feldkirchen a zpátky jižním břehem kolem kláštera.",
+    note: "Mezi Steindorfem a Feldkirchenem vedlejší silnice mezi loukami. Zpátky už po jižním břehu jezera.",
+    sights: [
+      { kind: "krajina", name: "Bleistätter Moor", look: "Rákosiny a hladina na východním konci jezera. Zastav u ptačí pozorovatelny u Steindorfu — z kola to neuvidíš.", query: "Bleistätter Moor" },
+      { kind: "pamatka", name: "Hauptplatz Feldkirchen", look: "Arkádové náměstí, kostel, zmrzlina. Kolo nech na náměstí a projdi si podloubí — je to pět minut a je to nejhezčí městečko na trase.", query: "Feldkirchen in Kärnten Hauptplatz" },
+      { kind: "pamatka", name: "Stift Ossiach", look: "Cestou zpátky už na jižním břehu. Klášterní kostel a nádvoří, v létě koncerty. Káva tady dává větší smysl než ve Feldkirchenu.", query: "Stift Ossiach Sommer" },
+    ],
     wps: [
       ["Bodensdorf", 46.68609, 13.97257],
       ["Steindorf", 46.6981, 14.00902],
@@ -137,9 +152,13 @@ export const ROUTES = [
     kind: "okruh",
     tags: ["hory", "klid", "jezero"],
     official: "Rennrad Region Villach",
-    see: "Oficiální okruh regionu přes kopce mezi dvěma jezery. Klidné okresky, téměř žádná auta, výhledy střídavě na Ossiach a na Wörthersee. Aplikace jezdí kolem obou jezer — tohle je to, co je mezi nimi.",
-    note: "Region to popisuje jako ruhige Abgeschiedenheit. Sjezd do Wernbergu je rychlý. Delší verze přes Moosburg přidává dalších 30 km, tahle je ta kratší.",
-    photos: ["Ossiach", "Burg Landskron", "Wörthersee", "Köstenberg", "Wernberg"],
+    see: "Kopce mezi dvěma jezery. Klidné okresky, výhledy střídavě na Ossiach a na Wörthersee, dolů k Landskronu.",
+    note: "Sjezd do Wernbergu je rychlý. Region to popisuje jako ruhige Abgeschiedenheit — opravdu tu skoro nikdo není.",
+    sights: [
+      { kind: "krajina", name: "Hřeben Ossiacher Tauern", look: "Mezi Ossiachem a Köstenbergem se otevírá les a louky. Zastav nahoře: jedním směrem domácí jezero, druhým už tušíš Wörthersee.", query: "Ossiacher Tauern" },
+      { kind: "krajina", name: "Pohled na Wörthersee", look: "U Köstenbergu / sjezdu k Wernbergu. Není to z břehu, je to z kopce — Wörthersee jako stříbrná plocha v kotlině.", query: "Wörthersee Sommer" },
+      { kind: "pamatka", name: "Burg Landskron", look: "Cestou dolů k jezeru. Když jsi tudy nejel zvlášť, zastav tady: terasa a výhled na obě strany.", query: "Burg Landskron Panorama" },
+    ],
     wps: [
       ["Ossiach", 46.67583, 13.98236],
       ["Glanhofen", 46.68911, 14.09014],
@@ -157,9 +176,13 @@ export const ROUTES = [
     claim: "Tyrkysová voda pod Mittagskoglem",
     kind: "okruh",
     tags: ["jezero", "hory"],
-    see: "Faaker See je tyrkysový — barvu mu dávají jemné vápencové částice v přítoku. Nad ním se zvedá Mittagskogel (2 143 m).",
-    note: "Nejfotogeničtější místo v okolí. Cestou tam i zpět projedeš Villachem, kolem jezera je to okruh.",
-    photos: ["Faaker See", "Mittagskogel", "Faak am See", "Villach", "Drobollach"],
+    see: "Faaker See je tyrkysový od vápence v přítoku. Nad ním Mittagskogel. Nejzřetelnější letní krajina v okolí.",
+    note: "Nejfotogeničtější místo od ubytování. Cestou tam i zpět Villach, kolem jezera je to okruh.",
+    sights: [
+      { kind: "krajina", name: "Faaker See a Mittagskogel", look: "Zastav v Drobollachu nebo na jižním břehu u Faaku. To tyrkysové jezero s 2 143 m pyramidou nad ním je to, kvůli čemu se tady fotí pohlednice.", query: "Faaker See Mittagskogel Sommer" },
+      { kind: "krajina", name: "Koupání v Drobollachu", look: "Písčitá pláž, v září ještě teplá voda. Tretry dolů, deset minut ve vodě, pak dokola jezera.", query: "Drobollach Faaker See" },
+      { kind: "pamatka", name: "Kostel sv. Martina, Faak", look: "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty.", query: "Faak am See Kirche" },
+    ],
     wps: [
       ["Annenheim", 46.65872, 13.90054],
       ["Villach", 46.61376, 13.84601],
@@ -177,9 +200,13 @@ export const ROUTES = [
     kind: "okruh",
     tags: ["hory", "klid"],
     official: "Rennrad Region Villach",
-    see: "Oficiální Rund um die Gerlitzen Alpe. Gegendtal, Arriach, Himmelberg a zpátky podél jezera. Celý den vidíš horu z jiné strany, než z jaké na ni lezeš.",
-    note: "Sjezd do Himmelbergu region sám označuje za nebezpečný — úzký, strmý, občas sypký asfalt. Brzdit včas. Jinak klidné vedlejší silnice, ideální střední den.",
-    photos: ["Gerlitzen", "Arriach", "Afritzer See", "Himmelberg", "Treffen am Ossiacher See"],
+    see: "Gegendtal, Arriach, Himmelberg a zpátky podél jezera. Celý den vidíš Gerlitzen z jiné strany.",
+    note: "Sjezd do Himmelbergu je úzký a strmý. Brzdit včas. Jinak klidné vedlejší silnice.",
+    sights: [
+      { kind: "krajina", name: "Afritzer See", look: "První jezero v Gegendtalu, zelené a tiché. Sjeď k vodě u kempu, není to oklika.", query: "Afritzer See Sommer" },
+      { kind: "pamatka", name: "Arriach", look: "Nejvýše položená obec Korutan s farou a dřevěnými domy. Zastav na návsi, je to otočka celého okruhu kolem hory.", query: "Arriach Kärnten" },
+      { kind: "krajina", name: "Gerlitzen z Gegendtalu", look: "Z údolí vidíš horu zevnitř, ne z jezera. Louky, les, nahoře holý hřeben — v létě bez sjezdovek v popředí.", query: "Gegendtal Gerlitzen" },
+    ],
     wps: [
       ["Treffen", 46.66773, 13.85485],
       ["Winklern", 46.68514, 13.83594],
@@ -199,9 +226,13 @@ export const ROUTES = [
     claim: "16 km serpentin na Rosstratte, 1 732 m",
     kind: "vyjezd",
     tags: ["kopec", "hory"],
-    see: "Z Rosstratte (1 732 m) vidíš celou Villašskou kotlinu, Karavanky a Julské Alpy — za dobré viditelnosti až k Triglavu. Nahoře je alpská zahrada a geologická stezka.",
-    note: "Výjezd 16,5 km, průměr přes 7 %, nikdy strmější než 10 %. Pro auta mýto, pro kola zdarma. Ráno v kotlině drží mlha — nevyjížděj v sedm. Nahoru a dolů stejnou silnicí, jiná asfaltka z Rosstratte nevede.",
-    photos: ["Villacher Alpenstraße", "Dobratsch", "Villach", "Rosstratte", "Karawanken"],
+    see: "Serpentiny na Dobratsch. Z Rosstratte celá Villašská kotlina, Karavanky, Julské Alpy — za čista až k Triglavu.",
+    note: "16,5 km, průměr přes 7 %, nikdy strmější než 10 %. Pro auta mýto, pro kola zdarma. Ráno v kotlině drží mlha. Nahoru a dolů stejnou silnicí.",
+    sights: [
+      { kind: "krajina", name: "Panorama z Rosstratte", look: "Hlavní důvod výjezdu. Kotlina, tři jezera, Karavanky, Julské Alpy. V září bývá nejlepší viditelnost z celého roku.", query: "Rosstratte Dobratsch Aussicht" },
+      { kind: "pamatka", name: "Alpenblumengarten", look: "Alpská zahrada hned u parkoviště na Rosstratte. Pěšky 15–20 minut mezi záhony, kolo u vstupu. Otevřená v sezóně do září.", query: "Alpenblumengarten Rosstratte" },
+      { kind: "krajina", name: "Dobratsch", look: "Samotný masiv po levé ruce celý výjezd. Nahoře geologická stezka — když zbývají nohy, kousek po ní pěšky, asfalt končí u zahrady.", query: "Dobratsch Sommer" },
+    ],
     wps: [
       ["Annenheim", 46.65872, 13.90054],
       ["Villach", 46.61376, 13.84601],
@@ -218,9 +249,13 @@ export const ROUTES = [
     claim: "Dvě nejznámější jezera v jednom dni",
     kind: "okruh",
     tags: ["jezero", "hory", "mesto"],
-    see: "Dvě nejznámější korutanská jezera v jednom dni. Mezi nimi údolí Rosental se zámkem a zvěřincem v Roseggu a lázeňský Velden.",
+    see: "Tyrkysový Faaker See, pak Rosental se zámkem a zvěřincem, nakonec lázeňský Velden na Wörthersee.",
     note: "Nejlepší poměr zážitku a únavy z celé nabídky.",
-    photos: ["Velden am Wörthersee", "Faaker See", "Schloss Rosegg", "Wörthersee", "Mittagskogel"],
+    sights: [
+      { kind: "krajina", name: "Faaker See", look: "První jezero dne. Zastav v Drobollachu, ať máš Mittagskogel v záběru. Pak teprve jeď dál.", query: "Faaker See Sommer" },
+      { kind: "pamatka", name: "Schloss Rosegg", look: "Zámek, park a zvěřinec (labyrint, jeleni, výhled na Karavanky). Kolo k pokladně, hodina uvnitř se vyplácí — je to jediná opravdová zastávka mezi jezery.", query: "Schloss Rosegg" },
+      { kind: "krajina", name: "Velden a Wörthersee", look: "Promenáda, zámek ve Veldenu, koupání. Wörthersee je větší a formálnější než Faaker — zmrzlina na molu je povinná.", query: "Velden am Wörthersee Sommer" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Drobollach", 46.58733, 13.91966],
@@ -237,9 +272,13 @@ export const ROUTES = [
     claim: "Nejklidnější asfalt v okolí",
     kind: "okruh",
     tags: ["hory", "klid", "jezero"],
-    see: "Široké údolí podél Drávy s hřebenem Karavanek po pravé ruce celou cestu. Nejklidnější asfalt, jaký se odsud dá jet.",
-    note: "Skoro žádný provoz. Ideální den, když chceš jen jet a dívat se.",
-    photos: ["Karawanken", "St. Jakob im Rosental", "Rosental (Kärnten)", "Schloss Rosegg", "Mittagskogel"],
+    see: "Široké údolí podél Drávy, hřeben Karavanek po pravé ruce celou cestu. Jen jet a dívat se.",
+    note: "Skoro žádný provoz. Ideální den, když nechceš kopce, ale chceš hory v záběru.",
+    sights: [
+      { kind: "krajina", name: "Karavanky z Rosentalu", look: "Celé údolí je jedna vyhlídka. Nejlepší zastávka je mezi Ledenitzenem a St. Jakobem — hřeben vpravo, pole vlevo, žádné auto.", query: "Rosental Karawanken Sommer" },
+      { kind: "krajina", name: "Mittagskogel z údolí", look: "Ta samá pyramida jako u Faaker See, akorát z druhé strany. Ve St. Jakobu se ohlédni nazpátek.", query: "Mittagskogel Rosental" },
+      { kind: "pamatka", name: "Schloss Rosegg", look: "Cestou zpátky. Zámek a zvěřinec — když jsi tu ještě nebyl, zastav. Když jo, aspoň kafe v parku.", query: "Schloss Rosegg Park" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Ledenitzen", 46.56426, 13.96912],
@@ -255,9 +294,13 @@ export const ROUTES = [
     claim: "Dráva tam, řetěz jezer zpátky",
     kind: "okruh",
     tags: ["rovina", "hory", "klid", "jezero"],
-    see: "Po asfaltu údolím Drávy na západ k Paternionu, pak Ferndorfem do Gegendtalu a domů kolem Afritzer See. Žádná stejná cesta zpátky.",
-    note: "Drž se stopy z GPX, ne značení Drauradwegu. Značená cyklostezka R1 uhýbá na šotolinu; tahle varianta jede celou dobu po asfaltu.",
-    photos: ["Drau", "Paternion", "Afritzer See", "Feistritz an der Drau", "Treffen am Ossiacher See"],
+    see: "Asfalt údolím Drávy k Paternionu, pak do Gegendtalu a domů kolem Afritzer See. Dvě údolí, žádná stejná cesta zpátky.",
+    note: "Drž se GPX, ne značení Drauradwegu. R1 uhýbá na šotolinu; tahle varianta je celá po asfaltu.",
+    sights: [
+      { kind: "krajina", name: "Údolí Drávy", look: "Řeka vlevo, Gailtalské Alpy a Kreuzeck po stranách. Zastav na hrázi u Feistritz — v létě široká zelená niva, žádný provoz.", query: "Drautal Sommer" },
+      { kind: "pamatka", name: "Paternion", look: "Zámeček a kostel nad vsí. Kolo na náměstí, nahoru k zámku pěšky. Není to Schönbrunn, ale je to jediná památka v tomhle údolí.", query: "Schloss Paternion" },
+      { kind: "krajina", name: "Afritzer See", look: "Zpátky už jiné údolí a jiná voda. Sjeď k břehu, v září tu skoro nikdo není.", query: "Afritzer See" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Feistritz an der Drau", 46.70194, 13.66301],
@@ -276,9 +319,14 @@ export const ROUTES = [
     kind: "okruh",
     tags: ["cyklostezka", "zahranici", "hory", "klid"],
     official: "Alpe-Adria-Radweg",
-    see: "Úsek Villach — Tarvisio po staré Pontebbanské dráze: tunely, viadukty, 100 % asfalt. Domů jinudy — přes Fusine, Rateče a Wurzenpass (1 073 m) do kotliny u Faaker See.",
-    note: "Drž se značení Alpe-Adria / Ciclovia tam. Zpáteční Wurzenpass je strmá silnice (uvádí se až ~18 %), ale asfalt. Vezmi doklady. Ve středu 9. 9. navíc jede z Annenheimu v 9:00 Radbus do Tarvisia, kdybys chtěl jen sjezd.",
-    photos: ["Tarvisio", "Arnoldstein", "Julische Alpen", "Wurzenpass", "Faaker See", "Rateče"],
+    see: "Po zrušené železnici do Tarvisia (tunely, viadukty), oběd v Itálii, domů přes Fusine, Rateče a Wurzenpass.",
+    note: "Tam značení Alpe-Adria. Wurzenpass zpátky je strmý asfalt (uvádí se až ~18 %). Vezmi doklady.",
+    sights: [
+      { kind: "krajina", name: "Ciclovia — tunely a viadukty", look: "Mezi Arnoldsteinem a Tarvisiem stará Pontebbana. Zastav před tunelem, ať vidíš, kudy to vede — je to nejhezčí kus cyklostezky v okolí.", query: "Alpe Adria Radweg Tarvisio" },
+      { kind: "pamatka", name: "Tarvisio", look: "Oběd v Itálii. Centro, zmrzlina, pohled na Julské Alpy z náměstí. Kolo k nádraží / parku, pěšky do města.", query: "Tarvisio Italia" },
+      { kind: "krajina", name: "Laghi di Fusine", look: "Krátká odbočka u Fusine: dvě ledovcová jezera pod Mangartem. Stojí za 20 minut i pěšky od silnice, voda je tyrkysová jako Faaker, akorát v Itálii.", query: "Laghi di Fusine Sommer" },
+      { kind: "krajina", name: "Wurzenpass", look: "Průsmyk 1 073 m, výhled do kotliny k Faaker See. Nahoře cedule tří zemí — foto a dolů.", query: "Wurzenpass" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Arnoldstein", 46.54872, 13.70712],
@@ -298,9 +346,13 @@ export const ROUTES = [
     kind: "okruh",
     tags: ["hory", "jezero", "klid"],
     official: "nock/bike",
-    see: "První trasa na sever, do Nockberg. Gegendtal s Afritzer See a Brennsee, pak lázeňské Bad Kleinkirchheim v 1 100 metrech. Zpátky přes Gnesau a Himmelberg k jezeru.",
-    note: "Oficiální nock/bike okruh, jen start posunutý ze Ossiachu k ubytování. Klidné silnice, žádný provoz. Max kolem 1 100 m — žádný HC kopec, spíš celodenní vyhlídková jízda.",
-    photos: ["Bad Kleinkirchheim", "Afritzer See", "Feld am See", "Himmelberg", "Gerlitzen"],
+    see: "Gegendtal: Afritzer See, Brennsee, pak lázně v 1 100 m a zpátky přes Gnesau k domácímu jezeru.",
+    note: "Oficiální nock/bike, start u ubytování. Žádný HC kopec, spíš celodenní vyhlídková jízda.",
+    sights: [
+      { kind: "krajina", name: "Afritzer See a Brennsee", look: "Dvě malá jezera za sebou v údolí. U Feld am See sjeď k vodě — Brennsee je ten klidnější, skoro bez hotelů.", query: "Feld am See Brennsee" },
+      { kind: "pamatka", name: "Bad Kleinkirchheim", look: "Lázeňské městečko v Nockbergách. Termály Römerbad / St. Kathrein, když chceš přerušit den. Jinak aspoň náměstí a kostel.", query: "Bad Kleinkirchheim Sommer" },
+      { kind: "krajina", name: "Nockberge", look: "Kulaté hřebeny nad vsí, v létě zelené, ne lyžařské. Nejlepší výhled je kousek nad městem směr Nockalm — i ze silnice to stačí.", query: "Nockberge Sommer" },
+    ],
     wps: [
       ["Treffen", 46.66773, 13.85485],
       ["Afritz am See", 46.72622, 13.79663],
@@ -320,9 +372,13 @@ export const ROUTES = [
     claim: "Kopec dopoledne, jezero na vychladnutí",
     kind: "vyjezd",
     tags: ["kopec", "hory", "jezero"],
-    see: "Alpenstraße dopoledne, Faaker See odpoledne na vychladnutí nohou.",
-    note: "Nejtěžší den, co se odsud dá poskládat bez přejezdu do jiného regionu. Samotná Alpenstraße je nahoru a dolů stejnou silnicí; až potom okruh kolem Faaker See.",
-    photos: ["Dobratsch", "Villacher Alpenstraße", "Faaker See", "Mittagskogel", "Villach"],
+    see: "Ráno serpentiny na Dobratsch, odpoledne tyrkysový Faaker See. Dva úplně jiné světy v jednom dni.",
+    note: "Alpenstraße je nahoru a dolů stejnou silnicí; až potom okruh kolem jezera. Těžký den.",
+    sights: [
+      { kind: "krajina", name: "Rosstratte", look: "Dopoledne. Stejné panorama jako u samostatného výjezdu — kotlina, Karavanky, za čista Triglav. Nahoře oběd a dolů.", query: "Villacher Alpenstraße Rosstratte" },
+      { kind: "pamatka", name: "Alpenblumengarten", look: "Když zbývá čas nahoře. Alpská zahrada u parkoviště, 20 minut pěšky.", query: "Alpenblumengarten Dobratsch" },
+      { kind: "krajina", name: "Faaker See", look: "Odpoledne na vychladnutí. Koupání v Drobollachu, Mittagskogel v záběru. Po Alpenstraße je to odměna.", query: "Faaker See Sommer" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Möltschach", 46.60104, 13.81207],
@@ -341,9 +397,13 @@ export const ROUTES = [
     kind: "okruh",
     tags: ["kopec", "hory", "klid"],
     official: "Rennrad Region Villach",
-    see: "Gailtal tam, Dráva zpátky, mezi nimi Windische Höhe (1 110 m). Region ho jmenuje mezi třemi hlavními silničářskými kopci vedle Gerlitzenu a Dobratsche. Z jihu je to strmé (cedule 18 %), severní sjezd je dlouhý a mírný.",
-    note: "Tahle verze leze tu strmou stranu z Gailtalu. Když to chceš obráceně, prohoď pořadí v hlavě: nejdřív Dráva, pak průsmyk z Feistritz. Na silničním kole, žádný les.",
-    photos: ["Gailtal", "Nötsch im Gailtal", "Drau", "Feistritz an der Drau", "Karnische Alpen"],
+    see: "Gailtal tam (Karnské Alpy z obou stran), průsmyk 1 110 m, Dráva zpátky. Dvě údolí, jeden kopec mezi nimi.",
+    note: "Z jihu strmé (cedule 18 %), severní sjezd mírný. Celé po asfaltu (L33).",
+    sights: [
+      { kind: "krajina", name: "Gailtal", look: "Široké údolí sevřené Gailtalskými a Karnskými Alpami. Zastav u Nötsche: dlouhé rovné úseky, hory na obou stranách, v létě posečené louky.", query: "Gailtal Sommer" },
+      { kind: "krajina", name: "Windische Höhe", look: "Sedlo 1 110 m. Výhled do obou údolí. Nahoře jen silnice a pastviny — foto a dolů k Drávě.", query: "Windische Höhe" },
+      { kind: "krajina", name: "Dráva u Feistritz", look: "Zpátky už jiné údolí. Řeka, rovina, Kreuzeck vpravo. Po strmém sjezdu je to oddech.", query: "Drau Feistritz Sommer" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Nötsch im Gailtal", 46.576, 13.639],
@@ -360,9 +420,13 @@ export const ROUTES = [
     claim: "Poloostrovní kostel v Maria Wörth",
     kind: "okruh",
     tags: ["jezero", "mesto"],
-    see: "Objezd celého Wörthersee — Velden, Pörtschach, poloostrovní kostel v Maria Wörth a okraj Klagenfurtu.",
-    note: "Severní břeh má v sezóně nejvíc aut z celé nabídky. Jeď brzo ráno. Cestou pár set metrů šotoliny mezi Villachem a Veldenem.",
-    photos: ["Maria Wörth", "Wörthersee", "Pörtschach am Wörther See", "Velden am Wörthersee", "Klagenfurt"],
+    see: "Objezd celého Wörthersee: Velden, Pörtschach, Maria Wörth, okraj Klagenfurtu. Letní jezero jak z plakátu.",
+    note: "Severní břeh má v sezóně nejvíc aut. Jeď brzo ráno. Pár set metrů šotoliny mezi Villachem a Veldenem.",
+    sights: [
+      { kind: "krajina", name: "Promenáda ve Veldenu", look: "Zámek ve vodě, molo, zmrzlina. Nejlepší koupání z celého okruhu, voda v září pořád teplá.", query: "Schloss Velden Wörthersee" },
+      { kind: "pamatka", name: "Maria Wörth", look: "Poloostrovní kostel, nejfotografovanější místo jezera. Kolo nech pod kostelem, nahoru pěšky. Jdi i na hřbitov — výhled na vodu z druhé strany.", query: "Maria Wörth Sommer" },
+      { kind: "krajina", name: "Pörtschach", look: "Severní břeh, parky k vodě, vily. Kratší zastávka než Velden, ale klidnější koupání.", query: "Pörtschach Wörthersee Sommer" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Velden", 46.61395, 14.04171],
@@ -380,9 +444,13 @@ export const ROUTES = [
     claim: "Nejhlubší korutanské jezero a klášter",
     kind: "okruh",
     tags: ["jezero", "hory", "klid"],
-    see: "Gegendtalem k Afritzer See a Brennsee, pak nejhlubší korutanské jezero sevřené mezi Nockbergami a Kreuzeckem. Nad Millstattem stojí románský klášter. Domů údolím Drávy.",
-    note: "Oficiální okruh regionu Ossiacher See – Drautal – Millstätter See – Gegendtal, start u ubytování. Celý den v sedle, ale bez velkého stoupání.",
-    photos: ["Millstätter See", "Stift Millstatt", "Spittal an der Drau", "Afritzer See", "Feld am See"],
+    see: "Gegendtalem k řetězu jezer, pak nejhlubší korutanské jezero pod Nockbergami. Nad vsí románský klášter. Domů údolím Drávy.",
+    note: "Celý den v sedle, ale bez velkého stoupání. Oficiální okruh regionu, start u ubytování.",
+    sights: [
+      { kind: "krajina", name: "Gegendtal", look: "Afritzer See a Brennsee cestou tam. Zastav u Feld am See — malé jezero, hory těsně nad ním.", query: "Millstätter See Sommer" },
+      { kind: "krajina", name: "Millstätter See", look: "Nejhlubší jezero Korutan, sevřené mezi pohořími. Nejlepší pohled je z břehu v Millstattu nebo z cesty nad vsí. V září ještě ke koupání.", query: "Millstatt am See" },
+      { kind: "pamatka", name: "Stift Millstatt", look: "Románský klášter nad jezerem. Křížová chodba, kostel, nádvoří. Kolo pod klášterem, deset minut pěšky. Tohle je důvod, proč sem jet, ne jen voda.", query: "Stift Millstatt" },
+    ],
     wps: [
       ["Treffen", 46.66773, 13.85485],
       ["Afritz am See", 46.72622, 13.79663],
@@ -402,9 +470,13 @@ export const ROUTES = [
     claim: "Nejteplejší jezero Rakouska",
     kind: "okruh",
     tags: ["jezero", "rovina", "klid"],
-    see: "Nejteplejší jezero Rakouska u St. Kanzian. Tam přes Velden a Klagenfurt, zpátky jinudy: Völkermarkt, St. Veit an der Glan a Feldkirchen. Cestou vinice a slovinsky mluvící vesnice.",
-    note: "Velký kilometrový nájezd bez kopců. Okruh středem Korutan, ne tam a zpátky stejnou silnicí.",
-    photos: ["Klopeiner See", "Klagenfurt", "Völkermarkt", "St. Veit an der Glan", "Wörthersee"],
+    see: "Klopeiner See u St. Kanzian, pak Völkermarkt, St. Veit a Feldkirchen. Vinice, slovinsky mluvící vesnice, velké kilometry.",
+    note: "Okruh středem Korutan, ne tam a zpátky. Málo kopců, hodně asfaltu.",
+    sights: [
+      { kind: "krajina", name: "Klopeiner See", look: "Nejteplejší jezero Rakouska. V září ideální na koupání — tretry dolů u St. Kanzian. Voda bývá teplejší než Wörthersee.", query: "Klopeiner See Sommer" },
+      { kind: "pamatka", name: "Lindwurm, Klagenfurt", look: "Cestou tam. Drak na Neuer Platz, stará radnice. Kolo k náměstí, pět minut pěšky. Klagenfurt jinak přeskoč — centrum je od trasy stranou.", query: "Lindwurm Klagenfurt" },
+      { kind: "pamatka", name: "Burg Hochosterwitz", look: "Není přímo na stopě, ale od St. Veit je to krátká odbočka a je to jeden z nejzachovalejších hradů v Rakousku. Čtrnáct bran do kopce. Kolo nech dole, nahoru pěšky nebo výtahem.", query: "Burg Hochosterwitz" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Velden", 46.61395, 14.04171],
@@ -424,9 +496,14 @@ export const ROUTES = [
     claim: "Predilský průsmyk a údolí Soči",
     kind: "okruh",
     tags: ["zahranici", "hory", "kopec"],
-    see: "Oficiální Dreiländertour. Přes Tarvisio k jezeru Lago del Predil, serpentinami na Predilský průsmyk a dolů do údolí Soči.",
-    note: "Celodenní záležitost pro trénované nohy. Nejezdi to, pokud nemáš za sebou solidní sezónu. Vezmi doklady.",
-    photos: ["Raibler See", "Predilpass", "Bovec", "Tarvisio", "Kranjska Gora", "Julische Alpen"],
+    see: "Dreiländertour: Tarvisio, Lago del Predil, Predilský průsmyk, údolí Soči, Kranjska Gora. Celý den v horách.",
+    note: "Pro trénované nohy. Vezmi doklady. Nejezdi to, pokud nemáš za sebou sezónu.",
+    sights: [
+      { kind: "krajina", name: "Lago del Predil", look: "Horské jezero pod průsmykem, v létě sytě zelené. Zastav u hráze, než začneš lézt na Predil. Studená voda, ale koupání tu lidi zkouší.", query: "Lago del Predil Sommer" },
+      { kind: "krajina", name: "Predilský průsmyk", look: "Sedlo mezi Itálií a Slovinskem, vojenské pevnosti u silnice. Vyhlídka do údolí Soči — foto u cedule a dolů serpentinami.", query: "Predilpass" },
+      { kind: "krajina", name: "Údolí Soči u Bovce", look: "Smaragdová řeka. V Bovci zastav u mostu nebo u infocentra. Když zbývá čas, 10 minut k řece — tohle není Korutany, tohle je už jiná země.", query: "Soča Bovec Sommer" },
+      { kind: "pamatka", name: "Kranjska Gora", look: "Horské městečko pod Triglavem. Oběd, zmrzlina, pohled na Julské Alpy. Pak už jen Wurzenpass / Rateče a domů.", query: "Kranjska Gora Sommer" },
+    ],
     wps: [
       ["Villach", 46.61376, 13.84601],
       ["Arnoldstein", 46.549, 13.71],

@@ -25,7 +25,8 @@ function isScenic(p) {
 
 function tokensOf(route) {
   const raw = [
-    ...(route.photoQueries ?? []),
+    ...(route.sights ?? []).map((s) => s.query),
+    ...(route.sights ?? []).map((s) => s.name),
     ...(route.wps ?? []).map((w) => String(w[0] ?? w.name ?? "")),
     route.name,
   ];
@@ -82,6 +83,27 @@ function resolvePhotos(route, allPhotos) {
   return [...mine, ...extra].slice(0, 6);
 }
 
+function uniqueByCaption(photos) {
+  const seen = new Set();
+  return photos.filter((p) => {
+    const key = p.caption || p.src;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function annotatePhotos(route, photos) {
+  const sights = route.sights ?? [];
+  return photos.map((p) => {
+    const hit =
+      sights.find((s) => s.name === p.caption || s.query === p.caption) ||
+      sights.find((s) => p.caption && s.name.toLowerCase().includes(String(p.caption).toLowerCase().slice(0, 12)));
+    if (!hit) return { ...p, kind: p.kind ?? "krajina" };
+    return { ...p, caption: hit.name, kind: hit.kind, look: hit.look };
+  });
+}
+
 /*
  * Odhad čistého času v sedle: rovina 25 km/h, každých 750 m stoupání hodinu
  * navíc. Bez zastávek, bez focení, bez oběda v Tarvisiu.
@@ -101,11 +123,10 @@ export const ALL_ROUTES = ROUTES.map((route) => {
   const gen = byId.get(route.id);
   const km = gen?.km ?? route.fallback.km;
   const hm = gen?.hm ?? route.fallback.hm;
-  const photos = resolvePhotos({ ...route, photoQueries: route.photos }, photoData.photos ?? {});
+  const photos = uniqueByCaption(annotatePhotos(route, resolvePhotos(route, photoData.photos ?? {})));
 
   return {
     ...route,
-    photoQueries: route.photos,
     km,
     hm,
     photos,

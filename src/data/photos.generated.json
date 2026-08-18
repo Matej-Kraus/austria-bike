@@ -1,8 +1,19 @@
 {
- "generatedAt": "2026-08-18T20:40:46.791Z",
+ "generatedAt": "2026-08-18T20:54:11.154Z",
  "source": "Wikimedia Commons",
  "photos": {
   "landskron": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ossiach_Brunnen_Carinthischer_Sommer_19092014_966.jpg/1280px-Ossiach_Brunnen_Carinthischer_Sommer_19092014_966.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Brunnen_Carinthischer_Sommer_19092014_966.jpg",
+    "caption": "Ossiacher See u Annenheimu",
+    "kind": "krajina",
+    "look": "Hned po startu zastav u mola v Annenheimu. Jezero v létě, Gerlitzen nad ním — to je ten výhled z okna ubytování, akorát z kola."
+   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg/1280px-Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
     "width": 1000,
@@ -10,7 +21,9 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
-    "caption": "Burg Landskron"
+    "caption": "Burg Landskron",
+    "kind": "pamatka",
+    "look": "Kolo dolů u restaurace. Nahoře terasa na obě strany (jezero i Villach) a sokolnická show Affenberg / Adlerarena — stojí za půlhodinu, i když nejedeš na představení."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg/1280px-Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg",
@@ -19,25 +32,20 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg",
-    "caption": "Villach Hauptplatz"
+    "caption": "Hauptplatz Villach",
+    "kind": "pamatka",
+    "look": "Historické náměstí, kašna, kavárny. Kolo opři a jdi pěšky do centra — od řeky Drávy je to dvě minuty."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sommer-Linde_in_Tiffen.jpg/1280px-Sommer-Linde_in_Tiffen.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
+    "height": 665,
+    "author": "Naturpuur",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "caption": "Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Annenheim.jpg/1280px-Annenheim.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "MHM2011",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Annenheim.jpg",
-    "caption": "Annenheim"
+    "page": "https://commons.wikimedia.org/wiki/File:Sommer-Linde_in_Tiffen.jpg",
+    "caption": "Ossiacher See u Annenheimu",
+    "kind": "krajina",
+    "look": "Hned po startu zastav u mola v Annenheimu. Jezero v létě, Gerlitzen nad ním — to je ten výhled z okna ubytování, akorát z kola."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Villach_Landskron_Burgruine_S-Teil_Aussenmauer_14042017_7565.jpg/1280px-Villach_Landskron_Burgruine_S-Teil_Aussenmauer_14042017_7565.jpg",
@@ -46,7 +54,9 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Landskron_Burgruine_S-Teil_Aussenmauer_14042017_7565.jpg",
-    "caption": "Burg Landskron"
+    "caption": "Burg Landskron",
+    "kind": "pamatka",
+    "look": "Kolo dolů u restaurace. Nahoře terasa na obě strany (jezero i Villach) a sokolnická show Affenberg / Adlerarena — stojí za půlhodinu, i když nejedeš na představení."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg/1280px-Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg",
@@ -55,10 +65,34 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg",
-    "caption": "Villach Hauptplatz"
+    "caption": "Hauptplatz Villach",
+    "kind": "pamatka",
+    "look": "Historické náměstí, kašna, kavárny. Kolo opři a jdi pěšky do centra — od řeky Drávy je to dvě minuty."
    }
   ],
   "ossiach": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7092.jpg/1280px-Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7092.jpg",
+    "width": 1000,
+    "height": 665,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7092.jpg",
+    "caption": "Severní břeh a Gerlitzen",
+    "kind": "krajina",
+    "look": "Mezi Sattendorfem a Bodensdorfem jezero vlevo, hora vpravo. V létě se tu koupe skoro z každého mola — stačí sundat tretry."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg/1280px-Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
+    "caption": "Rákosiny u Steindorfu",
+    "kind": "krajina",
+    "look": "Východní konec jezera, Bleistätter Moor. Zastav u lávky, ale na kole zůstaň na asfaltu — do rákosí vede šotolina."
+   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg/1280px-Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
     "width": 1000,
@@ -66,25 +100,20 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
-    "caption": "Stift Ossiach"
+    "caption": "Stift Ossiach",
+    "kind": "pamatka",
+    "look": "Benediktinský klášter na jižním břehu. Kostel, nádvoří, v létě koncerty Carinthischer Sommer. I bez lístku stojí za obchůzku nádvoří a kávu v klášterní kavárně."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7093.jpg/1280px-Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7093.jpg",
     "width": 1000,
-    "height": 666,
+    "height": 584,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "caption": "Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blick_von_Bodensdorfnach_Ossiach.jpg/1280px-Blick_von_Bodensdorfnach_Ossiach.jpg",
-    "width": 1000,
-    "height": 619,
-    "author": "Mefusbren69",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Blick_von_Bodensdorfnach_Ossiach.jpg",
-    "caption": "Ossiach"
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Bodensdorf_Bahnhofstra%C3%9Fe_5_Zugbahnhof_23052019_7093.jpg",
+    "caption": "Severní břeh a Gerlitzen",
+    "kind": "krajina",
+    "look": "Mezi Sattendorfem a Bodensdorfem jezero vlevo, hora vpravo. V létě se tu koupe skoro z každého mola — stačí sundat tretry."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
@@ -93,16 +122,9 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
-    "caption": "Steindorf am Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg/1280px-Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg",
-    "caption": "Bodensdorf"
+    "caption": "Rákosiny u Steindorfu",
+    "kind": "krajina",
+    "look": "Východní konec jezera, Bleistätter Moor. Zastav u lávky, ale na kole zůstaň na asfaltu — do rákosí vede šotolina."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg/1280px-Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg",
@@ -111,18 +133,34 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg",
-    "caption": "Stift Ossiach"
+    "caption": "Stift Ossiach",
+    "kind": "pamatka",
+    "look": "Benediktinský klášter na jižním břehu. Kostel, nádvoří, v létě koncerty Carinthischer Sommer. I bez lístku stojí za obchůzku nádvoří a kávu v klášterní kavárně."
    }
   ],
   "gerlitzen": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observatorium_Kanzelhoehe.jpg/1280px-Observatorium_Kanzelhoehe.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
+    "height": 750,
+    "author": "Poetziw",
+    "license": "GFDL",
+    "page": "https://commons.wikimedia.org/wiki/File:Observatorium_Kanzelhoehe.jpg",
+    "caption": "Jezero z Kanzelhöhe",
+    "kind": "krajina",
+    "look": "U hotelu / observatoře se otoč. Celý Ossiacher See, Villach, za ním Karavanky. Tohle je důvod, proč ten kopec vůbec lézt."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ausblick_St%C3%B6cklweingarten.jpg/1280px-Ausblick_St%C3%B6cklweingarten.jpg",
+    "width": 1000,
+    "height": 795,
+    "author": "Colorblaze",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "caption": "Gerlitzen"
+    "page": "https://commons.wikimedia.org/wiki/File:Ausblick_St%C3%B6cklweingarten.jpg",
+    "caption": "Hřeben Gerlitzenu",
+    "article": "Stöcklweingarten",
+    "kind": "krajina",
+    "look": "Nahoře je alpská louka, v září ještě bez sněhu. Kousek pěšky od silnice na vyhlídku, kolo nech u cesty."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg/1280px-Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg",
@@ -131,73 +169,45 @@
     "author": "Naturpuur",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen,_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg",
-    "caption": "Kanzelhöhe"
+    "caption": "Sonnenobservatorium Kanzelhöhe",
+    "kind": "pamatka",
+    "look": "Sluneční observatoř univerzity ve Štýrském Hradci. Zvenku je to ta bílá kopule — když mají otevřeno, pustí tě na krátkou prohlídku."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gerlitzen_-_Sonnenobservatorium_-_Turm4.JPG/1280px-Gerlitzen_-_Sonnenobservatorium_-_Turm4.JPG",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "caption": "Ossiacher See"
+    "height": 667,
+    "author": "Neithan90",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen_-_Sonnenobservatorium_-_Turm4.JPG",
+    "caption": "Jezero z Kanzelhöhe",
+    "kind": "krajina",
+    "look": "U hotelu / observatoře se otoč. Celý Ossiacher See, Villach, za ním Karavanky. Tohle je důvod, proč ten kopec vůbec lézt."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Annenheim.jpg/1280px-Annenheim.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gerlitzen%2C_Sonnenobservatorium_-_Turm4.jpg/1280px-Gerlitzen%2C_Sonnenobservatorium_-_Turm4.jpg",
     "width": 1000,
-    "height": 750,
-    "author": "MHM2011",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Annenheim.jpg",
-    "caption": "Annenheim"
+    "height": 1216,
+    "author": "Neithan90",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen,_Sonnenobservatorium_-_Turm4.jpg",
+    "caption": "Sonnenobservatorium Kanzelhöhe",
+    "kind": "pamatka",
+    "look": "Sluneční observatoř univerzity ve Štýrském Hradci. Zvenku je to ta bílá kopule — když mají otevřeno, pustí tě na krátkou prohlídku."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ObservatoriumKanzelh%C3%B6he_2013.JPG/1280px-ObservatoriumKanzelh%C3%B6he_2013.JPG",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg/1280px-Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg",
-    "width": 1000,
-    "height": 725,
-    "author": "Naturpuur",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen,_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg",
-    "caption": "Kanzelhöhe"
+    "height": 664,
+    "author": "Poetziw",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:ObservatoriumKanzelh%C3%B6he_2013.JPG",
+    "caption": "Jezero z Kanzelhöhe",
+    "kind": "krajina",
+    "look": "U hotelu / observatoře se otoč. Celý Ossiacher See, Villach, za ním Karavanky. Tohle je důvod, proč ten kopec vůbec lézt."
    }
   ],
   "feuerberg": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "caption": "Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
-    "caption": "Bodensdorf"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gerlitzen_Alpenstra%C3%9Fe.jpg/1280px-Gerlitzen_Alpenstra%C3%9Fe.jpg",
     "width": 1000,
@@ -205,316 +215,377 @@
     "author": "Kliek",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen_Alpenstra%C3%9Fe.jpg",
-    "caption": "Gerlitzen Alpenstraße"
+    "caption": "Ossiacher See z Alpenstraße",
+    "kind": "krajina",
+    "look": "Zhruba v polovině výjezdu se otevírá výhled na celé jezero. Zastav v zatáčce s parkovištěm, ať to není jen z kola."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuerberg_%2831523339333%29.jpg/1280px-Feuerberg_%2831523339333%29.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
-    "caption": "Gerlitzen"
+    "height": 750,
+    "author": "Alper Çuğun from Berlin, Germany",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Feuerberg_(31523339333).jpg",
+    "caption": "Louky u Feuerbergu",
+    "kind": "krajina",
+    "look": "Poslední kilometry už jsou vysokohorské pastviny. V září ještě zelené. Z terasy hotelu je panorama Nockberg i Karavanek."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg/1280px-Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Villach_Panorama.jpg/1280px-Villach_Panorama.jpg",
     "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
-    "caption": "Ossiacher See"
+    "height": 259,
+    "author": "Peter Tritthart",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Panorama.jpg",
+    "caption": "Ossiacher See z Alpenstraße",
+    "kind": "krajina",
+    "look": "Zhruba v polovině výjezdu se otevírá výhled na celé jezero. Zastav v zatáčce s parkovištěm, ať to není jen z kola."
    }
   ],
   "feldkirchen": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Feldkirchen_Klein_St_Veit_Pfarrkirche_hl_Veit_NO-Ansicht_20042016_1582.jpg/1280px-Feldkirchen_Klein_St_Veit_Pfarrkirche_hl_Veit_NO-Ansicht_20042016_1582.jpg",
-    "width": 1000,
-    "height": 682,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Klein_St_Veit_Pfarrkirche_hl_Veit_NO-Ansicht_20042016_1582.jpg",
-    "caption": "Feldkirchen in Kärnten"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg/1280px-Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
-    "caption": "Steindorf am Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ossiach_Alt-Ossiach_Bleist%C3%A4tter_Moor_Wasserfl%C3%A4chen_Sumpfwiesen_23052019_6981.jpg/1280px-Ossiach_Alt-Ossiach_Bleist%C3%A4tter_Moor_Wasserfl%C3%A4chen_Sumpfwiesen_23052019_6981.jpg",
     "width": 1000,
     "height": 666,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
-    "caption": "Ossiacher See"
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Alt-Ossiach_Bleist%C3%A4tter_Moor_Wasserfl%C3%A4chen_Sumpfwiesen_23052019_6981.jpg",
+    "caption": "Bleistätter Moor",
+    "kind": "krajina",
+    "look": "Rákosiny a hladina na východním konci jezera. Zastav u ptačí pozorovatelny u Steindorfu — z kola to neuvidíš."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg/1280px-Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Feldkirchen_Hauptplatz_9_Fenster_mit_Parapetfeld_02072016_3561.jpg/1280px-Feldkirchen_Hauptplatz_9_Fenster_mit_Parapetfeld_02072016_3561.jpg",
     "width": 1000,
-    "height": 669,
+    "height": 666,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
-    "caption": "Stift Ossiach"
+    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Hauptplatz_9_Fenster_mit_Parapetfeld_02072016_3561.jpg",
+    "caption": "Hauptplatz Feldkirchen",
+    "kind": "pamatka",
+    "look": "Arkádové náměstí, kostel, zmrzlina. Kolo nech na náměstí a projdi si podloubí — je to pět minut a je to nejhezčí městečko na trase."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Feldkirchen_Kirchgasse_6_Wohn-und_Gesch%C3%A4ftshaus_Parapet-Fenster_06062019_7122.jpg/1280px-Feldkirchen_Kirchgasse_6_Wohn-und_Gesch%C3%A4ftshaus_Parapet-Fenster_06062019_7122.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stift_Ossiach_Pfarrkirche_Mariae_Himmelfahrt_Gedenktafel_08072015_5693.jpg/1280px-Stift_Ossiach_Pfarrkirche_Mariae_Himmelfahrt_Gedenktafel_08072015_5693.jpg",
     "width": 1000,
-    "height": 517,
+    "height": 871,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Kirchgasse_6_Wohn-und_Gesch%C3%A4ftshaus_Parapet-Fenster_06062019_7122.jpg",
-    "caption": "Feldkirchen in Kärnten"
+    "page": "https://commons.wikimedia.org/wiki/File:Stift_Ossiach_Pfarrkirche_Mariae_Himmelfahrt_Gedenktafel_08072015_5693.jpg",
+    "caption": "Stift Ossiach",
+    "kind": "pamatka",
+    "look": "Cestou zpátky už na jižním břehu. Klášterní kostel a nádvoří, v létě koncerty. Káva tady dává větší smysl než ve Feldkirchenu."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ossiach_Prefelnig_Bleist%C3%A4tter_Moor_Sumpfwiesen_24032021_0591.jpg/1280px-Ossiach_Prefelnig_Bleist%C3%A4tter_Moor_Sumpfwiesen_24032021_0591.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
-    "caption": "Steindorf am Ossiacher See"
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Prefelnig_Bleist%C3%A4tter_Moor_Sumpfwiesen_24032021_0591.jpg",
+    "caption": "Bleistätter Moor",
+    "kind": "krajina",
+    "look": "Rákosiny a hladina na východním konci jezera. Zastav u ptačí pozorovatelny u Steindorfu — z kola to neuvidíš."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Feldkirchen_Hauptplatz_2_B%C3%BCrgerhaus_Handlungshaus_Polsterhaus_02072016_3548.jpg/1280px-Feldkirchen_Hauptplatz_2_B%C3%BCrgerhaus_Handlungshaus_Polsterhaus_02072016_3548.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Hauptplatz_2_B%C3%BCrgerhaus_Handlungshaus_Polsterhaus_02072016_3548.jpg",
+    "caption": "Hauptplatz Feldkirchen",
+    "kind": "pamatka",
+    "look": "Arkádové náměstí, kostel, zmrzlina. Kolo nech na náměstí a projdi si podloubí — je to pět minut a je to nejhezčí městečko na trase."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%22Heute_ist_das_Stift_Ossiach_Zentrum_des_renommierten_Musikfestivals_Carinthischer_Sommer%22._01.jpg/1280px-%22Heute_ist_das_Stift_Ossiach_Zentrum_des_renommierten_Musikfestivals_Carinthischer_Sommer%22._01.jpg",
+    "width": 1000,
+    "height": 511,
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Heute_ist_das_Stift_Ossiach_Zentrum_des_renommierten_Musikfestivals_Carinthischer_Sommer%22._01.jpg",
+    "caption": "Stift Ossiach",
+    "kind": "pamatka",
+    "look": "Cestou zpátky už na jižním břehu. Klášterní kostel a nádvoří, v létě koncerty. Káva tady dává větší smysl než ve Feldkirchenu."
    }
   ],
   "ossiachertauern": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blick_von_Bodensdorfnach_Ossiach.jpg/1280px-Blick_von_Bodensdorfnach_Ossiach.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ossiacher_Tauern_Rindfleischfest_13082006_01.jpg/1280px-Ossiacher_Tauern_Rindfleischfest_13082006_01.jpg",
     "width": 1000,
-    "height": 619,
-    "author": "Mefusbren69",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Blick_von_Bodensdorfnach_Ossiach.jpg",
-    "caption": "Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg/1280px-Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
-    "width": 1000,
-    "height": 666,
+    "height": 440,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
-    "caption": "Burg Landskron"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
-    "width": 1000,
-    "height": 224,
-    "author": "Checkerboy1996",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
-    "caption": "Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiacher_Tauern_Rindfleischfest_13082006_01.jpg",
+    "caption": "Hřeben Ossiacher Tauern",
+    "kind": "krajina",
+    "look": "Mezi Ossiachem a Köstenbergem se otevírá les a louky. Zastav nahoře: jedním směrem domácí jezero, druhým už tušíš Wörthersee."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Seepromenade_Velden_Woerthersee.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
-    "caption": "Köstenberg"
+    "height": 750,
+    "author": "User Dickbauch on de.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Seepromenade_Velden_Woerthersee.jpg",
+    "caption": "Pohled na Wörthersee",
+    "kind": "krajina",
+    "look": "U Köstenbergu / sjezdu k Wernbergu. Není to z břehu, je to z kopce — Wörthersee jako stříbrná plocha v kotlině."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg/1280px-Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Landskron_%28Oppenheim%29-03-Panorama.jpg/1280px-Burg_Landskron_%28Oppenheim%29-03-Panorama.jpg",
     "width": 1000,
-    "height": 669,
-    "author": "Johann Jaritz",
+    "height": 501,
+    "author": "Muck",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg",
-    "caption": "Wernberg"
+    "page": "https://commons.wikimedia.org/wiki/File:Burg_Landskron_(Oppenheim)-03-Panorama.jpg",
+    "caption": "Burg Landskron",
+    "kind": "pamatka",
+    "look": "Cestou dolů k jezeru. Když jsi tudy nejel zvlášť, zastav tady: terasa a výhled na obě strany."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg/1280px-Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ossiacher_Tauern_Rindfleischfest_Kutschenfahrt_13082006_05.jpg/1280px-Ossiacher_Tauern_Rindfleischfest_Kutschenfahrt_13082006_05.jpg",
     "width": 1000,
-    "height": 666,
+    "height": 601,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg",
-    "caption": "Ossiach"
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiacher_Tauern_Rindfleischfest_Kutschenfahrt_13082006_05.jpg",
+    "caption": "Hřeben Ossiacher Tauern",
+    "kind": "krajina",
+    "look": "Mezi Ossiachem a Köstenbergem se otevírá les a louky. Zastav nahoře: jedním směrem domácí jezero, druhým už tušíš Wörthersee."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg/1280px-Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg",
+    "caption": "Pohled na Wörthersee",
+    "kind": "krajina",
+    "look": "U Köstenbergu / sjezdu k Wernbergu. Není to z břehu, je to z kopce — Wörthersee jako stříbrná plocha v kotlině."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landskron_Burg_Graben_Marstall_Wall_Kapelle_Mauer_20220127.jpg/1280px-Landskron_Burg_Graben_Marstall_Wall_Kapelle_Mauer_20220127.jpg",
+    "width": 1000,
+    "height": 323,
+    "author": "Erell",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Landskron_Burg_Graben_Marstall_Wall_Kapelle_Mauer_20220127.jpg",
+    "caption": "Burg Landskron",
+    "kind": "pamatka",
+    "look": "Cestou dolů k jezeru. Když jsi tudy nejel zvlášť, zastav tady: terasa a výhled na obě strany."
    }
   ],
   "faaker": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehem._Bahnhof_Ledenitzen%2C_Gemeinde_Finkenstein%2C_Bezirk_Villach_Land%2C_K%C3%A4rnten.jpg/1280px-Ehem._Bahnhof_Ledenitzen%2C_Gemeinde_Finkenstein%2C_Bezirk_Villach_Land%2C_K%C3%A4rnten.jpg",
     "width": 1000,
-    "height": 940,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "caption": "Mittagskogel"
+    "height": 556,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ehem._Bahnhof_Ledenitzen,_Gemeinde_Finkenstein,_Bezirk_Villach_Land,_K%C3%A4rnten.jpg",
+    "caption": "Faaker See a Mittagskogel",
+    "article": "Ledenitzen",
+    "kind": "krajina",
+    "look": "Zastav v Drobollachu nebo na jižním břehu u Faaku. To tyrkysové jezero s 2 143 m pyramidou nad ním je to, kvůli čemu se tady fotí pohlednice."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Finkenstein_am_Faaker_See_Faak_Filialkirche_hl._Georg_SW-Ansicht_31052008_01.jpg/1280px-Finkenstein_am_Faaker_See_Faak_Filialkirche_hl._Georg_SW-Ansicht_31052008_01.jpg",
     "width": 1000,
-    "height": 695,
+    "height": 853,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "caption": "Faak am See"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Faak_Filialkirche_hl._Georg_SW-Ansicht_31052008_01.jpg",
+    "caption": "Kostel sv. Martina, Faak",
+    "kind": "pamatka",
+    "look": "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Finkenstein_Faak_am_See_Filialkirche_hl._Georg_WNW-Ansicht_19102018_5056.jpg/1280px-Finkenstein_Faak_am_See_Filialkirche_hl._Georg_WNW-Ansicht_19102018_5056.jpg",
     "width": 1000,
-    "height": 479,
-    "author": "JJ55",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
-    "caption": "Villach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drobollach_Faaker_See_2011-08-02.jpg/1280px-Drobollach_Faaker_See_2011-08-02.jpg",
-    "width": 1000,
-    "height": 770,
-    "author": "Gugganij",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Drobollach_Faaker_See_2011-08-02.jpg",
-    "caption": "Drobollach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/MittagskogelPitztalVonN.jpg/1280px-MittagskogelPitztalVonN.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Cactus26",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MittagskogelPitztalVonN.jpg",
-    "caption": "Mittagskogel"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg",
-    "width": 1000,
-    "height": 667,
+    "height": 727,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg",
-    "caption": "Faak am See"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Filialkirche_hl._Georg_WNW-Ansicht_19102018_5056.jpg",
+    "caption": "Kostel sv. Martina, Faak",
+    "kind": "pamatka",
+    "look": "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5061.jpg/1280px-Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5061.jpg",
+    "width": 1000,
+    "height": 1721,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5061.jpg",
+    "caption": "Kostel sv. Martina, Faak",
+    "kind": "pamatka",
+    "look": "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5053.jpg/1280px-Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5053.jpg",
+    "width": 1000,
+    "height": 1568,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Filialkirche_hl._Georg_SO-Ansicht_19102018_5053.jpg",
+    "caption": "Kostel sv. Martina, Faak",
+    "kind": "pamatka",
+    "look": "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Finkenstein_Faak_am_See_Filialkirche_hl._Georg_Christopherus-Fresko_19102018_5047.jpg/1280px-Finkenstein_Faak_am_See_Filialkirche_hl._Georg_Christopherus-Fresko_19102018_5047.jpg",
+    "width": 1000,
+    "height": 1616,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Filialkirche_hl._Georg_Christopherus-Fresko_19102018_5047.jpg",
+    "caption": "Kostel sv. Martina, Faak",
+    "kind": "pamatka",
+    "look": "Malý kostelík nad vsí s výhledem na jezero. Kolo k hřbitovní zdi, nahoru pěšky dvě minuty."
    }
   ],
   "gerlitzenokruh": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg/1280px-Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg",
-    "caption": "Arriach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg/1280px-Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Michielverbeek",
+    "height": 615,
+    "author": "Naturpuur",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Himmelberg,_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
-    "caption": "Himmelberg"
+    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
+    "caption": "Afritzer See",
+    "article": "Afritzer See",
+    "kind": "krajina",
+    "look": "První jezero v Gegendtalu, zelené a tiché. Sjeď k vodě u kempu, není to oklika."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg/1280px-Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Arriach_Hundsdorf_West-Ansicht_05062017_9056.jpg/1280px-Arriach_Hundsdorf_West-Ansicht_05062017_9056.jpg",
     "width": 1000,
     "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arriach_Hundsdorf_West-Ansicht_05062017_9056.jpg",
+    "caption": "Arriach",
+    "kind": "pamatka",
+    "look": "Nejvýše položená obec Korutan s farou a dřevěnými domy. Zastav na návsi, je to otočka celého okruhu kolem hory."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Afritz_Gegendtal_29042007_01.jpg/1280px-Afritz_Gegendtal_29042007_01.jpg",
+    "width": 1000,
+    "height": 669,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
-    "caption": "Treffen am Ossiacher See"
+    "page": "https://commons.wikimedia.org/wiki/File:Afritz_Gegendtal_29042007_01.jpg",
+    "caption": "Gerlitzen z Gegendtalu",
+    "kind": "krajina",
+    "look": "Z údolí vidíš horu zevnitř, ne z jezera. Louky, les, nahoře holý hřeben — v létě bez sjezdovek v popředí."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Velden_Saissersee_25042008_03.jpg/1280px-Velden_Saissersee_25042008_03.jpg",
     "width": 1000,
-    "height": 666,
+    "height": 662,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
-    "caption": "Gerlitzen"
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Velden_Saissersee_25042008_03.jpg",
+    "caption": "Afritzer See",
+    "article": "Kärntner Seen",
+    "kind": "krajina",
+    "look": "První jezero v Gegendtalu, zelené a tiché. Sjeď k vodě u kempu, není to oklika."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg/1280px-Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arriach_47_Wohnhaus_NW-Ansicht_29042024_4965.jpg/1280px-Arriach_47_Wohnhaus_NW-Ansicht_29042024_4965.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg",
-    "caption": "Arriach"
+    "page": "https://commons.wikimedia.org/wiki/File:Arriach_47_Wohnhaus_NW-Ansicht_29042024_4965.jpg",
+    "caption": "Arriach",
+    "kind": "pamatka",
+    "look": "Nejvýše položená obec Korutan s farou a dřevěnými domy. Zastav na návsi, je to otočka celého okruhu kolem hory."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tobitsch_hoch_%C3%BCber_Afritz_im_Gegendtal%2C_Bezirk_Villach_Land%2C_K%C3%A4rnten.jpg/1280px-Tobitsch_hoch_%C3%BCber_Afritz_im_Gegendtal%2C_Bezirk_Villach_Land%2C_K%C3%A4rnten.jpg",
+    "width": 1000,
+    "height": 548,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tobitsch_hoch_%C3%BCber_Afritz_im_Gegendtal,_Bezirk_Villach_Land,_K%C3%A4rnten.jpg",
+    "caption": "Gerlitzen z Gegendtalu",
+    "kind": "krajina",
+    "look": "Z údolí vidíš horu zevnitř, ne z jezera. Louky, les, nahoře holý hřeben — v létě bez sjezdovek v popředí."
    }
   ],
   "villacher": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1024_Villacher_Alpenstra%C3%9Fe%2C_Ro%C3%9Ftratte-2292.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dobratsch_-_Rote_Wand.JPG/1280px-Dobratsch_-_Rote_Wand.JPG",
     "width": 1000,
-    "height": 667,
-    "author": "Hedwig Storch",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:1024_Villacher_Alpenstra%C3%9Fe,_Ro%C3%9Ftratte-2292.jpg",
-    "caption": "Villacher Alpenstraße"
+    "height": 563,
+    "author": "Peter Tritthart",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dobratsch_-_Rote_Wand.JPG",
+    "caption": "Panorama z Rosstratte",
+    "article": "Villacher Alpenstraße",
+    "kind": "krajina",
+    "look": "Hlavní důvod výjezdu. Kotlina, tři jezera, Karavanky, Julské Alpy. V září bývá nejlepší viditelnost z celého roku."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hohenthurn_mit_Dobratsch_20052007_03.jpg/1280px-Hohenthurn_mit_Dobratsch_20052007_03.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Kirche_Dobratsch.jpg/1280px-Deutsche_Kirche_Dobratsch.jpg",
     "width": 1000,
-    "height": 669,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Hohenthurn_mit_Dobratsch_20052007_03.jpg",
-    "caption": "Dobratsch"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
-    "width": 1000,
-    "height": 479,
-    "author": "JJ55",
+    "height": 750,
+    "author": "Markus Steiner at German Wikipedia",
     "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
-    "caption": "Villach"
+    "page": "https://commons.wikimedia.org/wiki/File:Deutsche_Kirche_Dobratsch.jpg",
+    "caption": "Dobratsch",
+    "kind": "krajina",
+    "look": "Samotný masiv po levé ruce celý výjezd. Nahoře geologická stezka — když zbývají nohy, kousek po ní pěšky, asfalt končí u zahrady."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg/1280px-Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg/1280px-Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg",
-    "caption": "Rosstratte"
+    "height": 751,
+    "author": "Joadl, special thanks to Alois Auer vlg Messner",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg",
+    "caption": "Dobratsch",
+    "kind": "krajina",
+    "look": "Samotný masiv po levé ruce celý výjezd. Nahoře geologická stezka — když zbývají nohy, kousek po ní pěšky, asfalt končí u zahrady."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Karavanke1.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg/1280px-Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg",
     "width": 1000,
-    "height": 750,
-    "author": "neuveden",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Karavanke1.jpg",
-    "caption": "Karawanken"
+    "height": 752,
+    "author": "Joadl, special thanks to Alois Auer vlg Messner",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg",
+    "caption": "Dobratsch",
+    "kind": "krajina",
+    "look": "Samotný masiv po levé ruce celý výjezd. Nahoře geologická stezka — když zbývají nohy, kousek po ní pěšky, asfalt končí u zahrady."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg/1280px-Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013_c.jpg/1280px-Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013_c.jpg",
     "width": 1000,
-    "height": 750,
-    "author": "Löwe 48",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg",
-    "caption": "Villacher Alpenstraße"
+    "height": 751,
+    "author": "Joadl, special thanks to Alois Auer vlg Messner",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013_c.jpg",
+    "caption": "Dobratsch",
+    "kind": "krajina",
+    "look": "Samotný masiv po levé ruce celý výjezd. Nahoře geologická stezka — když zbývají nohy, kousek po ní pěšky, asfalt končí u zahrady."
    }
   ],
   "faakerwoerther": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Petschnitzen_Kirchenlinde.JPG/1280px-Petschnitzen_Kirchenlinde.JPG",
     "width": 1000,
-    "height": 695,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "caption": "Faaker See"
+    "height": 1333,
+    "author": "Jürgele",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Petschnitzen_Kirchenlinde.JPG",
+    "caption": "Faaker See",
+    "kind": "krajina",
+    "look": "První jezero dne. Zastav v Drobollachu, ať máš Mittagskogel v záběru. Pak teprve jeď dál."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rosegg_Schloss_S-Seite_25092013_3196.jpg/1280px-Rosegg_Schloss_S-Seite_25092013_3196.jpg",
@@ -523,34 +594,20 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Seite_25092013_3196.jpg",
-    "caption": "Schloss Rosegg"
+    "caption": "Schloss Rosegg",
+    "kind": "pamatka",
+    "look": "Zámek, park a zvěřinec (labyrint, jeleni, výhled na Karavanky). Kolo k pokladně, hodina uvnitř se vyplácí — je to jediná opravdová zastávka mezi jezery."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Seepromenade_Velden_Woerthersee.jpg",
     "width": 1000,
-    "height": 224,
-    "author": "Checkerboy1996",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
-    "caption": "Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "width": 1000,
-    "height": 940,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "caption": "Mittagskogel"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg/1280px-Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
-    "caption": "Faaker See"
+    "height": 750,
+    "author": "User Dickbauch on de.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Seepromenade_Velden_Woerthersee.jpg",
+    "caption": "Velden a Wörthersee",
+    "kind": "krajina",
+    "look": "Promenáda, zámek ve Veldenu, koupání. Wörthersee je větší a formálnější než Faaker — zmrzlina na molu je povinná."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rosegg_Schloss_S-Ansicht_02032015_0301.jpg/1280px-Rosegg_Schloss_S-Ansicht_02032015_0301.jpg",
@@ -559,74 +616,123 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Ansicht_02032015_0301.jpg",
-    "caption": "Schloss Rosegg"
+    "caption": "Schloss Rosegg",
+    "kind": "pamatka",
+    "look": "Zámek, park a zvěřinec (labyrint, jeleni, výhled na Karavanky). Kolo k pokladně, hodina uvnitř se vyplácí — je to jediná opravdová zastávka mezi jezery."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sommerlinde_bei_der_Franzosenkirche.jpg/1280px-Sommerlinde_bei_der_Franzosenkirche.jpg",
+    "width": 1000,
+    "height": 1012,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sommerlinde_bei_der_Franzosenkirche.jpg",
+    "caption": "Velden a Wörthersee",
+    "kind": "krajina",
+    "look": "Promenáda, zámek ve Veldenu, koupání. Wörthersee je větší a formálnější než Faaker — zmrzlina na molu je povinná."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rosegg_Schloss_S-Ansicht_Ziergiebel_02032015_0297.jpg/1280px-Rosegg_Schloss_S-Ansicht_Ziergiebel_02032015_0297.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Ansicht_Ziergiebel_02032015_0297.jpg",
+    "caption": "Schloss Rosegg",
+    "kind": "pamatka",
+    "look": "Zámek, park a zvěřinec (labyrint, jeleni, výhled na Karavanky). Kolo k pokladně, hodina uvnitř se vyplácí — je to jediná opravdová zastávka mezi jezery."
    }
   ],
   "rosental": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Karavanke1.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/St.Peter_Rosental_Summer_2006.jpg/1280px-St.Peter_Rosental_Summer_2006.jpg",
     "width": 1000,
     "height": 750,
-    "author": "neuveden",
+    "author": "E.peiffer@gmx.net at German Wikipedia (Original text: E.peiffer@gmx.net 11:19, 17. Feb. 20",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Karavanke1.jpg",
-    "caption": "Karawanken"
+    "page": "https://commons.wikimedia.org/wiki/File:St.Peter_Rosental_Summer_2006.jpg",
+    "caption": "Karavanky z Rosentalu",
+    "kind": "krajina",
+    "look": "Celé údolí je jedna vyhlídka. Nejlepší zastávka je mezi Ledenitzenem a St. Jakobem — hřeben vpravo, pole vlevo, žádné auto."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg/1280px-Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Villach_Mittagskogel_22042009_92.jpg/1280px-Villach_Mittagskogel_22042009_92.jpg",
     "width": 1000,
-    "height": 568,
+    "height": 664,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Mittagskogel_22042009_92.jpg",
+    "caption": "Mittagskogel z údolí",
+    "kind": "krajina",
+    "look": "Ta samá pyramida jako u Faaker See, akorát z druhé strany. Ve St. Jakobu se ohlédni nazpátek."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rosegg_S%C3%BCdeinfahrt_zum_Schlosspark_von_Schloss_Rosegg_31122010_7259.jpg/1280px-Rosegg_S%C3%BCdeinfahrt_zum_Schlosspark_von_Schloss_Rosegg_31122010_7259.jpg",
+    "width": 1000,
+    "height": 664,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg",
-    "caption": "St. Jakob im Rosental"
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_S%C3%BCdeinfahrt_zum_Schlosspark_von_Schloss_Rosegg_31122010_7259.jpg",
+    "caption": "Schloss Rosegg",
+    "kind": "pamatka",
+    "look": "Cestou zpátky. Zámek a zvěřinec — když jsi tu ještě nebyl, zastav. Když jo, aspoň kafe v parku."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg/1280px-Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schiefling_am_See_Penken_Techelweg_Mittagskogel_23092013_069.jpg/1280px-Schiefling_am_See_Penken_Techelweg_Mittagskogel_23092013_069.jpg",
     "width": 1000,
     "height": 662,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg",
-    "caption": "Rosental (Kärnten)"
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Schiefling_am_See_Penken_Techelweg_Mittagskogel_23092013_069.jpg",
+    "caption": "Mittagskogel z údolí",
+    "kind": "krajina",
+    "look": "Ta samá pyramida jako u Faaker See, akorát z druhé strany. Ve St. Jakobu se ohlédni nazpátek."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rosegg_Schloss_S-Seite_25092013_3196.jpg/1280px-Rosegg_Schloss_S-Seite_25092013_3196.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rosegg_Schloss_S-Einfahrtstor_25092013_141.jpg/1280px-Rosegg_Schloss_S-Einfahrtstor_25092013_141.jpg",
     "width": 1000,
     "height": 662,
     "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Einfahrtstor_25092013_141.jpg",
+    "caption": "Schloss Rosegg",
+    "kind": "pamatka",
+    "look": "Cestou zpátky. Zámek a zvěřinec — když jsi tu ještě nebyl, zastav. Když jo, aspoň kafe v parku."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Finkenstein_am_Faaker_See_Mittagskogel_13022015_9807.jpg/1280px-Finkenstein_am_Faaker_See_Mittagskogel_13022015_9807.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Seite_25092013_3196.jpg",
-    "caption": "Schloss Rosegg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "width": 1000,
-    "height": 940,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "caption": "Mittagskogel"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg/1280px-Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg",
-    "width": 1000,
-    "height": 669,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg",
-    "caption": "Karawanken"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Mittagskogel_13022015_9807.jpg",
+    "caption": "Mittagskogel z údolí",
+    "kind": "krajina",
+    "look": "Ta samá pyramida jako u Faaker See, akorát z druhé strany. Ve St. Jakobu se ohlédni nazpátek."
    }
   ],
   "draupaternion": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paternion_Bahnhofstra%C3%9Fe_49%2C_50_Wohnhaus_Erkerfenster_23072023_4266.jpg/1280px-Paternion_Bahnhofstra%C3%9Fe_49%2C_50_Wohnhaus_Erkerfenster_23072023_4266.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Obermillstatt_35_1910.jpg/1280px-Obermillstatt_35_1910.jpg",
     "width": 1000,
-    "height": 750,
+    "height": 648,
+    "author": "Liebl 3279 No. 5",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Obermillstatt_35_1910.jpg",
+    "caption": "Údolí Drávy",
+    "kind": "krajina",
+    "look": "Řeka vlevo, Gailtalské Alpy a Kreuzeck po stranách. Zastav na hrázi u Feistritz — v létě široká zelená niva, žádný provoz."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4284.jpg/1280px-Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4284.jpg",
+    "width": 1000,
+    "height": 729,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Bahnhofstra%C3%9Fe_49,_50_Wohnhaus_Erkerfenster_23072023_4266.jpg",
-    "caption": "Paternion"
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4284.jpg",
+    "caption": "Paternion",
+    "kind": "pamatka",
+    "look": "Zámeček a kostel nad vsí. Kolo na náměstí, nahoru k zámku pěšky. Není to Schönbrunn, ale je to jediná památka v tomhle údolí."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
@@ -635,34 +741,20 @@
     "author": "Naturpuur",
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
-    "caption": "Afritzer See"
+    "caption": "Afritzer See",
+    "kind": "krajina",
+    "look": "Zpátky už jiné údolí a jiná voda. Sjeď k břehu, v září tu skoro nikdo není."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg/1280px-Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4293.jpg/1280px-Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4293.jpg",
     "width": 1000,
-    "height": 667,
+    "height": 712,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
-    "caption": "Feistritz an der Drau"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg/1280px-Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
-    "caption": "Treffen am Ossiacher See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg/1280px-Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg",
-    "width": 1000,
-    "height": 1679,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg",
-    "caption": "Paternion"
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Ansicht_23072023_4293.jpg",
+    "caption": "Paternion",
+    "kind": "pamatka",
+    "look": "Zámeček a kostel nad vsí. Kolo na náměstí, nahoru k zámku pěšky. Není to Schönbrunn, ale je to jediná památka v tomhle údolí."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Afritzer_See%2C_Slow_Trail%2C_K%C3%A4rnten_11.jpg/1280px-Afritzer_See%2C_Slow_Trail%2C_K%C3%A4rnten_11.jpg",
@@ -671,10 +763,34 @@
     "author": "Naturpuur",
     "license": "CC BY 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Afritzer_See,_Slow_Trail,_K%C3%A4rnten_11.jpg",
-    "caption": "Afritzer See"
+    "caption": "Afritzer See",
+    "kind": "krajina",
+    "look": "Zpátky už jiné údolí a jiná voda. Sjeď k břehu, v září tu skoro nikdo není."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Portal_23072023_4290.jpg/1280px-Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Portal_23072023_4290.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Schlo%C3%9Fstra%C3%9Fe_1_Schloss_Paternion_Ost-Portal_23072023_4290.jpg",
+    "caption": "Paternion",
+    "kind": "pamatka",
+    "look": "Zámeček a kostel nad vsí. Kolo na náměstí, nahoru k zámku pěšky. Není to Schönbrunn, ale je to jediná památka v tomhle údolí."
    }
   ],
   "caar": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cycling_route_border_Italy_-_Slovenia%2C_Rate%C4%8De.jpg/1280px-Cycling_route_border_Italy_-_Slovenia%2C_Rate%C4%8De.jpg",
+    "width": 1000,
+    "height": 635,
+    "author": "Herzi Pinki",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cycling_route_border_Italy_-_Slovenia,_Rate%C4%8De.jpg",
+    "caption": "Ciclovia — tunely a viadukty",
+    "kind": "krajina",
+    "look": "Mezi Arnoldsteinem a Tarvisiem stará Pontebbana. Zastav před tunelem, ať vidíš, kudy to vede — je to nejhezčí kus cyklostezky v okolí."
+   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trbiz.JPG/1280px-Trbiz.JPG",
     "width": 1000,
@@ -682,43 +798,31 @@
     "author": "No machine-readable author provided. Žiga assumed (based on copyright claims).",
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Trbiz.JPG",
-    "caption": "Tarvisio"
+    "caption": "Tarvisio",
+    "kind": "pamatka",
+    "look": "Oběd v Itálii. Centro, zmrzlina, pohled na Julské Alpy z náměstí. Kolo k nádraží / parku, pěšky do města."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg/1280px-Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
-    "caption": "Arnoldstein"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Polyommatinae_Julian_Alps_Slovenia_2.jpg/1280px-Polyommatinae_Julian_Alps_Slovenia_2.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/3283WurzenpassKorenskoSedlo.jpg/1280px-3283WurzenpassKorenskoSedlo.jpg",
     "width": 1000,
     "height": 750,
-    "author": "User:Cfp",
+    "author": "David Edgar",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Polyommatinae_Julian_Alps_Slovenia_2.jpg",
-    "caption": "Julische Alpen"
+    "page": "https://commons.wikimedia.org/wiki/File:3283WurzenpassKorenskoSedlo.jpg",
+    "caption": "Wurzenpass",
+    "kind": "krajina",
+    "look": "Průsmyk 1 073 m, výhled do kotliny k Faaker See. Nahoře cedule tří zemí — foto a dolů."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ciclovia_Alpe_Adria_in_Tarvisio.jpg/1280px-Ciclovia_Alpe_Adria_in_Tarvisio.jpg",
     "width": 1000,
-    "height": 695,
-    "author": "Johann Jaritz",
+    "height": 635,
+    "author": "Herzi Pinki",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ratece_from_Visoka_Ponca.jpg/1280px-Ratece_from_Visoka_Ponca.jpg",
-    "width": 1000,
-    "height": 669,
-    "author": "Matija Podhraški",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ratece_from_Visoka_Ponca.jpg",
-    "caption": "Rateče"
+    "page": "https://commons.wikimedia.org/wiki/File:Ciclovia_Alpe_Adria_in_Tarvisio.jpg",
+    "caption": "Ciclovia — tunely a viadukty",
+    "kind": "krajina",
+    "look": "Mezi Arnoldsteinem a Tarvisiem stará Pontebbana. Zastav před tunelem, ať vidíš, kudy to vede — je to nejhezčí kus cyklostezky v okolí."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Big_air_sofa_%28deflating%29_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_%28Tarvisio%29.jpg/1280px-Big_air_sofa_%28deflating%29_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_%28Tarvisio%29.jpg",
@@ -727,27 +831,55 @@
     "author": "Xenja Santarelli",
     "license": "CC BY 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Big_air_sofa_(deflating)_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_(Tarvisio).jpg",
-    "caption": "Tarvisio"
+    "caption": "Tarvisio",
+    "kind": "pamatka",
+    "look": "Oběd v Itálii. Centro, zmrzlina, pohled na Julské Alpy z náměstí. Kolo k nádraží / parku, pěšky do města."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/17_Korensko_sedlo_%283%29.JPG",
+    "width": 1000,
+    "height": 750,
+    "author": "Ljuba brank at Slovenian Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:17_Korensko_sedlo_(3).JPG",
+    "caption": "Wurzenpass",
+    "kind": "krajina",
+    "look": "Průsmyk 1 073 m, výhled do kotliny k Faaker See. Nahoře cedule tří zemí — foto a dolů."
    }
   ],
   "kleinkirchheim": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7547.jpg/1280px-Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7547.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Feld_am_See_Gegendtal_Brennsee_12082007_01.jpg/1280px-Feld_am_See_Gegendtal_Brennsee_12082007_01.jpg",
     "width": 1000,
-    "height": 667,
+    "height": 662,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7547.jpg",
-    "caption": "Bad Kleinkirchheim"
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Feld_am_See_Gegendtal_Brennsee_12082007_01.jpg",
+    "caption": "Afritzer See a Brennsee",
+    "kind": "krajina",
+    "look": "Dvě malá jezera za sebou v údolí. U Feld am See sjeď k vodě — Brennsee je ten klidnější, skoro bez hotelů."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bergbahn_Bad_Kleinkirchheim%2C_K%C3%A4rnten.jpg/1280px-Bergbahn_Bad_Kleinkirchheim%2C_K%C3%A4rnten.jpg",
     "width": 1000,
-    "height": 615,
+    "height": 664,
     "author": "Naturpuur",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
-    "caption": "Afritzer See"
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bergbahn_Bad_Kleinkirchheim,_K%C3%A4rnten.jpg",
+    "caption": "Bad Kleinkirchheim",
+    "kind": "pamatka",
+    "look": "Lázeňské městečko v Nockbergách. Termály Römerbad / St. Kathrein, když chceš přerušit den. Jinak aspoň náměstí a kostel."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2015_Sommer_Schlager_Festival_%22Wenn_die_Musi_spielt%22_Nockberge%2C_K%C3%A4rnten.jpg/1280px-2015_Sommer_Schlager_Festival_%22Wenn_die_Musi_spielt%22_Nockberge%2C_K%C3%A4rnten.jpg",
+    "width": 1000,
+    "height": 932,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Sommer_Schlager_Festival_%22Wenn_die_Musi_spielt%22_Nockberge,_K%C3%A4rnten.jpg",
+    "caption": "Nockberge",
+    "kind": "krajina",
+    "look": "Kulaté hřebeny nad vsí, v létě zelené, ne lyžařské. Nejlepší výhled je kousek nad městem směr Nockalm — i ze silnice to stačí."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg/1280px-Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
@@ -756,45 +888,66 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
-    "caption": "Feld am See"
+    "caption": "Afritzer See a Brennsee",
+    "kind": "krajina",
+    "look": "Dvě malá jezera za sebou v údolí. U Feld am See sjeď k vodě — Brennsee je ten klidnější, skoro bez hotelů."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg/1280px-Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wenn_die_Musi_spielt%2C_Sommer_Open_Air_%282025%29%2C_Bad_Kleinkirchheim%2C_K%C3%A4rnten.jpg/1280px-Wenn_die_Musi_spielt%2C_Sommer_Open_Air_%282025%29%2C_Bad_Kleinkirchheim%2C_K%C3%A4rnten.jpg",
     "width": 1000,
-    "height": 750,
-    "author": "Michielverbeek",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Himmelberg,_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
-    "caption": "Himmelberg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
+    "height": 614,
+    "author": "Naturpuur",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "caption": "Gerlitzen"
+    "page": "https://commons.wikimedia.org/wiki/File:Wenn_die_Musi_spielt,_Sommer_Open_Air_(2025),_Bad_Kleinkirchheim,_K%C3%A4rnten.jpg",
+    "caption": "Bad Kleinkirchheim",
+    "kind": "pamatka",
+    "look": "Lázeňské městečko v Nockbergách. Termály Römerbad / St. Kathrein, když chceš přerušit den. Jinak aspoň náměstí a kostel."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg/1280px-Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2015_Sommer_Musi_Schlager_Festival%2C_%22Wenn_die_Musi_spielt%22_Nockberge%2C_K%C3%A4rnten.jpg/1280px-2015_Sommer_Musi_Schlager_Festival%2C_%22Wenn_die_Musi_spielt%22_Nockberge%2C_K%C3%A4rnten.jpg",
     "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg",
-    "caption": "Bad Kleinkirchheim"
+    "height": 678,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Sommer_Musi_Schlager_Festival,_%22Wenn_die_Musi_spielt%22_Nockberge,_K%C3%A4rnten.jpg",
+    "caption": "Nockberge",
+    "kind": "krajina",
+    "look": "Kulaté hřebeny nad vsí, v létě zelené, ne lyžařské. Nejlepší výhled je kousek nad městem směr Nockalm — i ze silnice to stačí."
    }
   ],
   "alpenfaaker": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hohenthurn_mit_Dobratsch_20052007_03.jpg/1280px-Hohenthurn_mit_Dobratsch_20052007_03.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Villacher_Alpenstra%C3%9Fe1.jpg",
     "width": 1000,
-    "height": 669,
-    "author": "Johann Jaritz",
+    "height": 750,
+    "author": "Ulflulfl",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Hohenthurn_mit_Dobratsch_20052007_03.jpg",
-    "caption": "Dobratsch"
+    "page": "https://commons.wikimedia.org/wiki/File:Villacher_Alpenstra%C3%9Fe1.jpg",
+    "caption": "Rosstratte",
+    "kind": "krajina",
+    "look": "Dopoledne. Stejné panorama jako u samostatného výjezdu — kotlina, Karavanky, za čista Triglav. Nahoře oběd a dolů."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Petschnitzen_Kirchenlinde.JPG/1280px-Petschnitzen_Kirchenlinde.JPG",
+    "width": 1000,
+    "height": 1333,
+    "author": "Jürgele",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Petschnitzen_Kirchenlinde.JPG",
+    "caption": "Faaker See",
+    "kind": "krajina",
+    "look": "Odpoledne na vychladnutí. Koupání v Drobollachu, Mittagskogel v záběru. Po Alpenstraße je to odměna."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Villacher_Alpenstra%C3%9Fe2.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Ulflulfl",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Villacher_Alpenstra%C3%9Fe2.jpg",
+    "caption": "Rosstratte",
+    "kind": "krajina",
+    "look": "Dopoledne. Stejné panorama jako u samostatného výjezdu — kotlina, Karavanky, za čista Triglav. Nahoře oběd a dolů."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1024_Villacher_Alpenstra%C3%9Fe%2C_Ro%C3%9Ftratte-2292.jpg",
@@ -803,166 +956,169 @@
     "author": "Hedwig Storch",
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:1024_Villacher_Alpenstra%C3%9Fe,_Ro%C3%9Ftratte-2292.jpg",
-    "caption": "Villacher Alpenstraße"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "width": 1000,
-    "height": 695,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "width": 1000,
-    "height": 940,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
-    "caption": "Mittagskogel"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
-    "width": 1000,
-    "height": 479,
-    "author": "JJ55",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
-    "caption": "Villach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg/1280px-Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg",
-    "caption": "Dobratsch"
+    "caption": "Rosstratte",
+    "kind": "krajina",
+    "look": "Dopoledne. Stejné panorama jako u samostatného výjezdu — kotlina, Karavanky, za čista Triglav. Nahoře oběd a dolů."
    }
   ],
   "windische": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg/1280px-%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sommer-Linde_03%2C_Matschiedl_Nr.1%2C_Gemeinde_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg/1280px-Sommer-Linde_03%2C_Matschiedl_Nr.1%2C_Gemeinde_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg",
     "width": 1000,
-    "height": 667,
-    "author": "Liberaler Humanist",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal,_Gailtalbahn,_M%C3%A4rz_2017.jpg",
-    "caption": "Gailtal"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brunnen%2C_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg/1280px-Brunnen%2C_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 679,
+    "height": 638,
     "author": "Naturpuur",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Brunnen,_N%C3%B6tsch_im_Gailtal,_K%C3%A4rnten.jpg",
-    "caption": "Nötsch im Gailtal"
+    "page": "https://commons.wikimedia.org/wiki/File:Sommer-Linde_03,_Matschiedl_Nr.1,_Gemeinde_Sankt_Stefan_im_Gailtal,_Bezirk_Hermagor.jpg",
+    "caption": "Gailtal",
+    "kind": "krajina",
+    "look": "Široké údolí sevřené Gailtalskými a Karnskými Alpami. Zastav u Nötsche: dlouhé rovné úseky, hory na obou stranách, v létě posečené louky."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
-    "caption": "Drau"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg/1280px-Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
-    "caption": "Feistritz an der Drau"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Karnische_Alpen%2C_Val_Fleons.JPG/1280px-Karnische_Alpen%2C_Val_Fleons.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Windische_H%C3%B6he.jpg/1280px-Windische_H%C3%B6he.jpg",
     "width": 1000,
     "height": 750,
-    "author": "Schlesinger",
+    "author": "Ulflulfl",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Karnische_Alpen,_Val_Fleons.JPG",
-    "caption": "Karnische Alpen"
+    "page": "https://commons.wikimedia.org/wiki/File:Windische_H%C3%B6he.jpg",
+    "caption": "Windische Höhe",
+    "kind": "krajina",
+    "look": "Sedlo 1 110 m. Výhled do obou údolí. Nahoře jen silnice a pastviny — foto a dolů k Drávě."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_Wegweiser.jpg/1280px-Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_Wegweiser.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sommer_Linde_05%2C_Matschiedl_Nr.1%2C_Bezirk_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg/1280px-Sommer_Linde_05%2C_Matschiedl_Nr.1%2C_Bezirk_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg",
     "width": 1000,
-    "height": 599,
+    "height": 643,
     "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Marktgemeinde_N%C3%B6tsch_im_Gailtal,_Wegweiser.jpg",
-    "caption": "Gailtal"
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sommer_Linde_05,_Matschiedl_Nr.1,_Bezirk_Sankt_Stefan_im_Gailtal,_Bezirk_Hermagor.jpg",
+    "caption": "Gailtal",
+    "kind": "krajina",
+    "look": "Široké údolí sevřené Gailtalskými a Karnskými Alpami. Zastav u Nötsche: dlouhé rovné úseky, hory na obou stranách, v létě posečené louky."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Windische_H%C3%B6he%2C_Karnische_Region%2C_Gemeinde_St.Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg/1280px-Windische_H%C3%B6he%2C_Karnische_Region%2C_Gemeinde_St.Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg",
+    "width": 1000,
+    "height": 579,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Windische_H%C3%B6he,_Karnische_Region,_Gemeinde_St.Stefan_im_Gailtal,_Bezirk_Hermagor.jpg",
+    "caption": "Windische Höhe",
+    "kind": "krajina",
+    "look": "Sedlo 1 110 m. Výhled do obou údolí. Nahoře jen silnice a pastviny — foto a dolů k Drávě."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sommer-Linde_01_im_Gastgarten_%22Gailtalerhof%22_in_Matschiedl%2C_Gemeinde_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg/1280px-Sommer-Linde_01_im_Gastgarten_%22Gailtalerhof%22_in_Matschiedl%2C_Gemeinde_Sankt_Stefan_im_Gailtal%2C_Bezirk_Hermagor.jpg",
+    "width": 1000,
+    "height": 664,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sommer-Linde_01_im_Gastgarten_%22Gailtalerhof%22_in_Matschiedl,_Gemeinde_Sankt_Stefan_im_Gailtal,_Bezirk_Hermagor.jpg",
+    "caption": "Gailtal",
+    "kind": "krajina",
+    "look": "Široké údolí sevřené Gailtalskými a Karnskými Alpami. Zastav u Nötsche: dlouhé rovné úseky, hory na obou stranách, v létě posečené louky."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tschekelnock_seen_from_Windische_H%C3%B6he.png/1280px-Tschekelnock_seen_from_Windische_H%C3%B6he.png",
+    "width": 1000,
+    "height": 668,
+    "author": "Martin Fux",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tschekelnock_seen_from_Windische_H%C3%B6he.png",
+    "caption": "Windische Höhe",
+    "kind": "krajina",
+    "look": "Sedlo 1 110 m. Výhled do obou údolí. Nahoře jen silnice a pastviny — foto a dolů k Drávě."
    }
   ],
   "woerthersee": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%A4rnten_W%C3%B6rthersee_Velden.jpg/1280px-K%C3%A4rnten_W%C3%B6rthersee_Velden.jpg",
     "width": 1000,
-    "height": 224,
-    "author": "Checkerboy1996",
+    "height": 664,
+    "author": "Isiwal",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
-    "caption": "Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4rnten_W%C3%B6rthersee_Velden.jpg",
+    "caption": "Promenáda ve Veldenu",
+    "kind": "krajina",
+    "look": "Zámek ve vodě, molo, zmrzlina. Nejlepší koupání z celého okruhu, voda v září pořád teplá."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg/1280px-P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Linde_in_Maria_W%C3%B6rth%2C_Bezirk_Klagenfurt_Land%2C_K%C3%A4rnten.jpg/1280px-Linde_in_Maria_W%C3%B6rth%2C_Bezirk_Klagenfurt_Land%2C_K%C3%A4rnten.jpg",
+    "width": 1000,
+    "height": 701,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Linde_in_Maria_W%C3%B6rth,_Bezirk_Klagenfurt_Land,_K%C3%A4rnten.jpg",
+    "caption": "Maria Wörth",
+    "kind": "pamatka",
+    "look": "Poloostrovní kostel, nejfotografovanější místo jezera. Kolo nech pod kostelem, nahoru pěšky. Jdi i na hřbitov — výhled na vodu z druhé strany."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg/1280px-Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_085.jpg",
+    "caption": "Pörtschach",
+    "kind": "krajina",
+    "look": "Severní břeh, parky k vodě, vily. Kratší zastávka než Velden, ale klidnější koupání."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Velden_am_Woerther_See_Seecorso_10_Hotel_Schloss_Velden_03042015_1432.jpg/1280px-Velden_am_Woerther_See_Seecorso_10_Hotel_Schloss_Velden_03042015_1432.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg",
-    "caption": "Pörtschach am Wörther See"
+    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_Woerther_See_Seecorso_10_Hotel_Schloss_Velden_03042015_1432.jpg",
+    "caption": "Promenáda ve Veldenu",
+    "kind": "krajina",
+    "look": "Zámek ve vodě, molo, zmrzlina. Nejlepší koupání z celého okruhu, voda v září pořád teplá."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturdenkmal_Zwei_Sommer-Linden%2C_St._Anna_am_Zackel%2C_Maria_W%C3%B6rth.jpg/1280px-Naturdenkmal_Zwei_Sommer-Linden%2C_St._Anna_am_Zackel%2C_Maria_W%C3%B6rth.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
+    "height": 750,
+    "author": "Naturpuur",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
-    "caption": "Velden am Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:Naturdenkmal_Zwei_Sommer-Linden,_St._Anna_am_Zackel,_Maria_W%C3%B6rth.jpg",
+    "caption": "Maria Wörth",
+    "kind": "pamatka",
+    "look": "Poloostrovní kostel, nejfotografovanější místo jezera. Kolo nech pod kostelem, nahoru pěšky. Jdi i na hřbitov — výhled na vodu z druhé strany."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_088.jpg/1280px-Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_088.jpg",
     "width": 1000,
-    "height": 667,
+    "height": 662,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
-    "caption": "Klagenfurt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/W%C3%B6rthersee_Schifffahrt_Inserat.jpg",
-    "width": 1000,
-    "height": 531,
-    "author": "neuveden",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee_Schifffahrt_Inserat.jpg",
-    "caption": "Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg/1280px-P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg",
-    "caption": "Pörtschach am Wörther See"
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Poertschach_Hans-Pruscha-Weg_5_Parkhotel_Summeropening_26041013_088.jpg",
+    "caption": "Pörtschach",
+    "kind": "krajina",
+    "look": "Severní břeh, parky k vodě, vily. Kratší zastávka než Velden, ale klidnější koupání."
    }
   ],
   "millstatt": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg/1280px-Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg/1280px-Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg",
     "width": 1000,
-    "height": 797,
-    "author": "Jakob Canciani",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
-    "caption": "Millstätter See"
+    "height": 751,
+    "author": "Joadl, special thanks to Alois Auer vlg Messner",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013a.jpg",
+    "caption": "Gegendtal",
+    "kind": "krajina",
+    "look": "Afritzer See a Brennsee cestou tam. Zastav u Feld am See — malé jezero, hory těsně nad ním."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Millstatt_Dellach_Millstaetter_See_08112015_8857.jpg/1280px-Millstatt_Dellach_Millstaetter_See_08112015_8857.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Dellach_Millstaetter_See_08112015_8857.jpg",
+    "caption": "Millstätter See",
+    "kind": "krajina",
+    "look": "Nejhlubší jezero Korutan, sevřené mezi pohořími. Nejlepší pohled je z břehu v Millstattu nebo z cesty nad vsí. V září ještě ke koupání."
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg/1280px-Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
@@ -971,111 +1127,113 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
-    "caption": "Stift Millstatt"
+    "caption": "Stift Millstatt",
+    "kind": "pamatka",
+    "look": "Románský klášter nad jezerem. Křížová chodba, kostel, nádvoří. Kolo pod klášterem, deset minut pěšky. Tohle je důvod, proč sem jet, ne jen voda."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg/1280px-Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg",
+    "width": 1000,
+    "height": 752,
+    "author": "Joadl, special thanks to Alois Auer vlg Messner",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_Berg_Obermillstatt_Lammersdorf_2013b.jpg",
+    "caption": "Gegendtal",
+    "kind": "krajina",
+    "look": "Afritzer See a Brennsee cestou tam. Zastav u Feld am See — malé jezero, hory těsně nad ním."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Millstatt_Dellach_Millstaetter_See_08112015_8858.jpg/1280px-Millstatt_Dellach_Millstaetter_See_08112015_8858.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
-    "caption": "Spittal an der Drau"
+    "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Dellach_Millstaetter_See_08112015_8858.jpg",
+    "caption": "Millstätter See",
+    "kind": "krajina",
+    "look": "Nejhlubší jezero Korutan, sevřené mezi pohořími. Nejlepší pohled je z břehu v Millstattu nebo z cesty nad vsí. V září ještě ke koupání."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_Doppels%C3%A4ule_20042015_2337.jpg/1280px-Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_Doppels%C3%A4ule_20042015_2337.jpg",
     "width": 1000,
-    "height": 615,
-    "author": "Naturpuur",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
-    "caption": "Afritzer See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg/1280px-Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
-    "width": 1000,
-    "height": 662,
+    "height": 667,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
-    "caption": "Feld am See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Millst%C3%A4tter_See_Ost_01_2013.JPG/1280px-Millst%C3%A4tter_See_Ost_01_2013.JPG",
-    "width": 1000,
-    "height": 751,
-    "author": "joadl",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_See_Ost_01_2013.JPG",
-    "caption": "Millstätter See"
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_Doppels%C3%A4ule_20042015_2337.jpg",
+    "caption": "Stift Millstatt",
+    "kind": "pamatka",
+    "look": "Románský klášter nad jezerem. Křížová chodba, kostel, nádvoří. Kolo pod klášterem, deset minut pěšky. Tohle je důvod, proč sem jet, ne jen voda."
    }
   ],
   "klopeiner": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Volkstanz_erlernen.jpg/1280px-Volkstanz_erlernen.jpg",
+    "width": 1000,
+    "height": 668,
+    "author": "Bitisajn",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Volkstanz_erlernen.jpg",
+    "caption": "Klopeiner See",
+    "kind": "krajina",
+    "look": "Nejteplejší jezero Rakouska. V září ideální na koupání — tretry dolů u St. Kanzian. Voda bývá teplejší než Wörthersee."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_NW-Ansicht_23072016_3938.jpg/1280px-Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_NW-Ansicht_23072016_3938.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_NW-Ansicht_23072016_3938.jpg",
+    "caption": "Lindwurm, Klagenfurt",
+    "kind": "pamatka",
+    "look": "Cestou tam. Drak na Neuer Platz, stará radnice. Kolo k náměstí, pět minut pěšky. Klagenfurt jinak přeskoč — centrum je od trasy stranou."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sankt_Georgen_am_Laengsee_Burg_Hochosterwitz_02122015_2403.jpg/1280px-Sankt_Georgen_am_Laengsee_Burg_Hochosterwitz_02122015_2403.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Georgen_am_Laengsee_Burg_Hochosterwitz_02122015_2403.jpg",
+    "caption": "Burg Hochosterwitz",
+    "kind": "pamatka",
+    "look": "Není přímo na stopě, ale od St. Veit je to krátká odbočka a je to jeden z nejzachovalejších hradů v Rakousku. Čtrnáct bran do kopce. Kolo nech dole, nahoru pěšky nebo výtahem."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erlernen_des_Bandltanzes.jpg/1280px-Erlernen_des_Bandltanzes.jpg",
+    "width": 1000,
+    "height": 668,
+    "author": "Bitisajn",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Erlernen_des_Bandltanzes.jpg",
+    "caption": "Klopeiner See",
+    "kind": "krajina",
+    "look": "Nejteplejší jezero Rakouska. V září ideální na koupání — tretry dolů u St. Kanzian. Voda bývá teplejší než Wörthersee."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_SW-Ansicht_16082020_7609.jpg/1280px-Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_SW-Ansicht_16082020_7609.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_SW-Ansicht_16082020_7609.jpg",
+    "caption": "Lindwurm, Klagenfurt",
+    "kind": "pamatka",
+    "look": "Cestou tam. Drak na Neuer Platz, stará radnice. Kolo k náměstí, pět minut pěšky. Klagenfurt jinak přeskoč — centrum je od trasy stranou."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sankt_Georgen_am_L%C3%A4ngsee_Burg_Hochosterwitz_W-Ansicht_12092018_4586.jpg/1280px-Sankt_Georgen_am_L%C3%A4ngsee_Burg_Hochosterwitz_W-Ansicht_12092018_4586.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
-    "caption": "Klagenfurt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg/1280px-V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg",
-    "caption": "Völkermarkt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg/1280px-Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg",
-    "caption": "St. Veit an der Glan"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
-    "width": 1000,
-    "height": 224,
-    "author": "Checkerboy1996",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
-    "caption": "Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_Inschrift_mit_Grimassenkopf_23082020_7668.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_Inschrift_mit_Grimassenkopf_23082020_7668.jpg",
-    "width": 1000,
-    "height": 705,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_Inschrift_mit_Grimassenkopf_23082020_7668.jpg",
-    "caption": "Klagenfurt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg/1280px-V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg",
-    "caption": "Völkermarkt"
+    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Georgen_am_L%C3%A4ngsee_Burg_Hochosterwitz_W-Ansicht_12092018_4586.jpg",
+    "caption": "Burg Hochosterwitz",
+    "kind": "pamatka",
+    "look": "Není přímo na stopě, ale od St. Veit je to krátká odbočka a je to jeden z nejzachovalejších hradů v Rakousku. Čtrnáct bran do kopce. Kolo nech dole, nahoru pěšky nebo výtahem."
    }
   ],
   "trizeme": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tarvisio_Lago_del_Predil_mit_F%C3%BCnfspitz_10032015_0504.jpg/1280px-Tarvisio_Lago_del_Predil_mit_F%C3%BCnfspitz_10032015_0504.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Lago_del_Predil_mit_F%C3%BCnfspitz_10032015_0504.jpg",
-    "caption": "Raibler See"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg/1280px-Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg",
     "width": 1000,
@@ -1083,43 +1241,67 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg",
-    "caption": "Predilpass"
+    "caption": "Predilský průsmyk",
+    "kind": "krajina",
+    "look": "Sedlo mezi Itálií a Slovinskem, vojenské pevnosti u silnice. Vyhlídka do údolí Soči — foto u cedule a dolů serpentinami."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bovec_aerial_view.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Soca_Kobarid.jpg",
     "width": 1000,
-    "height": 750,
-    "author": "Damjanleban at Slovenian Wikipedia",
-    "license": "CC BY-SA 2.5",
-    "page": "https://commons.wikimedia.org/wiki/File:Bovec_aerial_view.jpg",
-    "caption": "Bovec"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trbiz.JPG/1280px-Trbiz.JPG",
-    "width": 1000,
-    "height": 750,
-    "author": "No machine-readable author provided. Žiga assumed (based on copyright claims).",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Trbiz.JPG",
-    "caption": "Tarvisio"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Polyommatinae_Julian_Alps_Slovenia_2.jpg/1280px-Polyommatinae_Julian_Alps_Slovenia_2.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "User:Cfp",
+    "height": 616,
+    "author": "neuveden",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Polyommatinae_Julian_Alps_Slovenia_2.jpg",
-    "caption": "Julische Alpen"
+    "page": "https://commons.wikimedia.org/wiki/File:Soca_Kobarid.jpg",
+    "caption": "Údolí Soči u Bovce",
+    "article": "Soča",
+    "kind": "krajina",
+    "look": "Smaragdová řeka. V Bovci zastav u mostu nebo u infocentra. Když zbývá čas, 10 minut k řece — tohle není Korutany, tohle je už jiná země."
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg/1280px-Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anze_Kopitar_2023-12-16_%28cropped%29.jpg/1280px-Anze_Kopitar_2023-12-16_%28cropped%29.jpg",
+    "width": 1000,
+    "height": 1389,
+    "author": "Jenn G",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Anze_Kopitar_2023-12-16_(cropped).jpg",
+    "caption": "Kranjska Gora",
+    "article": "Anže Kopitar",
+    "kind": "pamatka",
+    "look": "Horské městečko pod Triglavem. Oběd, zmrzlina, pohled na Julské Alpy. Pak už jen Wurzenpass / Rateče a domů."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Passo_del_Predil_Blick_auf_Mangart_und_Jalovec_10032015_0541.jpg/1280px-Passo_del_Predil_Blick_auf_Mangart_und_Jalovec_10032015_0541.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg",
-    "caption": "Raibler See"
+    "page": "https://commons.wikimedia.org/wiki/File:Passo_del_Predil_Blick_auf_Mangart_und_Jalovec_10032015_0541.jpg",
+    "caption": "Predilský průsmyk",
+    "kind": "krajina",
+    "look": "Sedlo mezi Itálií a Slovinskem, vojenské pevnosti u silnice. Vyhlídka do údolí Soči — foto u cedule a dolů serpentinami."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Grb_Ob%C4%8Dine_Bovec.jpg",
+    "width": 1000,
+    "height": 1187,
+    "author": "Municipality of Bovec (Slovenia)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Grb_Ob%C4%8Dine_Bovec.jpg",
+    "caption": "Údolí Soči u Bovce",
+    "article": "Gemeinde Bovec",
+    "kind": "krajina",
+    "look": "Smaragdová řeka. V Bovci zastav u mostu nebo u infocentra. Když zbývá čas, 10 minut k řece — tohle není Korutany, tohle je už jiná země."
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0542.jpg/1280px-Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0542.jpg",
+    "width": 1000,
+    "height": 656,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0542.jpg",
+    "caption": "Predilský průsmyk",
+    "kind": "krajina",
+    "look": "Sedlo mezi Itálií a Slovinskem, vojenské pevnosti u silnice. Vyhlídka do údolí Soči — foto u cedule a dolů serpentinami."
    }
   ]
  }
