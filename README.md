@@ -1,6 +1,8 @@
 # austria-bike
 
-Road-bike loops from Sattendorf (Ossiacher See, Carinthia). Czech UI: *Kam dneska*.
+Road-bike loops from Sattendorf (Ossiacher See, Carinthia).
+
+Czech working title: **Rakousko kolo** — the app itself is *Kam dneska · Sattendorf*.
 
 Every route starts and ends at the accommodation. Distances, climbing and surface come from OpenStreetMap (BRouter, road-bike profile). Photos are from Wikimedia Commons.
 

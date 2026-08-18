@@ -134,7 +134,7 @@ export default function App() {
     setTimePick(next);
     if (next === "celyden") {
       const km = KM_PICKS.find((k) => k.id === kmPick);
-      if (km && km.max < 80) setKmPick("80-120");
+      if (km && km.min < 80) setKmPick("80-120");
     }
   };
 

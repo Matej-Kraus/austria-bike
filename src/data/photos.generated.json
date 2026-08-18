@@ -1,17 +1,8 @@
 {
- "generatedAt": "2026-08-18T20:14:07.911Z",
+ "generatedAt": "2026-08-18T20:40:46.791Z",
  "source": "Wikimedia Commons",
  "photos": {
   "landskron": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Villach_Burgruine_Landskron_29042015_0840.jpg/1280px-Villach_Burgruine_Landskron_29042015_0840.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Burgruine_Landskron_29042015_0840.jpg",
-    "caption": "Burg Landskron"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg/1280px-Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
     "width": 1000,
@@ -20,6 +11,33 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
     "caption": "Burg Landskron"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg/1280px-Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Hauptplatz_SW-Ansicht_03082015_6487.jpg",
+    "caption": "Villach Hauptplatz"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "caption": "Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Annenheim.jpg/1280px-Annenheim.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "MHM2011",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Annenheim.jpg",
+    "caption": "Annenheim"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Villach_Landskron_Burgruine_S-Teil_Aussenmauer_14042017_7565.jpg/1280px-Villach_Landskron_Burgruine_S-Teil_Aussenmauer_14042017_7565.jpg",
@@ -31,43 +49,16 @@
     "caption": "Burg Landskron"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_25102018_5159.jpg/1280px-Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_25102018_5159.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg/1280px-Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg",
     "width": 1000,
-    "height": 561,
+    "height": 661,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_25102018_5159.jpg",
-    "caption": "Burg Landskron"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_20042016_3106.jpg/1280px-Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_20042016_3106.jpg",
-    "width": 1000,
-    "height": 1502,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Landskron_Schlossbergweg_30_Burgruine_Torturm_20042016_3106.jpg",
-    "caption": "Burg Landskron"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Villach_Landskron_Burgruine_S%C3%BCd-Torbau_mit_Rustikaportal_20042016_1708.jpg/1280px-Villach_Landskron_Burgruine_S%C3%BCd-Torbau_mit_Rustikaportal_20042016_1708.jpg",
-    "width": 1000,
-    "height": 1498,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villach_Landskron_Burgruine_S%C3%BCd-Torbau_mit_Rustikaportal_20042016_1708.jpg",
-    "caption": "Burg Landskron"
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Hauptplatz_18_Paracelsushof_Gedenktafel_05082020_9479.jpg",
+    "caption": "Villach Hauptplatz"
    }
   ],
   "ossiach": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ossiach_Stift_S-Trakt_barocke_Hoffassade_Mittelrisalit_mit_Sockelgescho%C3%9F_08072015_5702.jpg/1280px-Ossiach_Stift_S-Trakt_barocke_Hoffassade_Mittelrisalit_mit_Sockelgescho%C3%9F_08072015_5702.jpg",
-    "width": 1000,
-    "height": 435,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_S-Trakt_barocke_Hoffassade_Mittelrisalit_mit_Sockelgescho%C3%9F_08072015_5702.jpg",
-    "caption": "Stift Ossiach"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg/1280px-Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
     "width": 1000,
@@ -78,6 +69,42 @@
     "caption": "Stift Ossiach"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "caption": "Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blick_von_Bodensdorfnach_Ossiach.jpg/1280px-Blick_von_Bodensdorfnach_Ossiach.jpg",
+    "width": 1000,
+    "height": 619,
+    "author": "Mefusbren69",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Blick_von_Bodensdorfnach_Ossiach.jpg",
+    "caption": "Ossiach"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "caption": "Steindorf am Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg/1280px-Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Bodensdorf_Pfarrkirche_hl._Josef_20042016_1691.jpg",
+    "caption": "Bodensdorf"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg/1280px-Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg",
     "width": 1000,
     "height": 708,
@@ -85,46 +112,10 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_S%C3%A4ulenkapitell_22102016_5060.jpg",
     "caption": "Stift Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_22102016_5065.jpg/1280px-Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_22102016_5065.jpg",
-    "width": 1000,
-    "height": 1654,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_22102016_5065.jpg",
-    "caption": "Stift Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg/1280px-Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg",
-    "width": 1000,
-    "height": 1419,
-    "author": "Uoaei1",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg",
-    "caption": "Stift Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ossiach_1_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_04112015_8628.jpg/1280px-Ossiach_1_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_04112015_8628.jpg",
-    "width": 1000,
-    "height": 1524,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_1_Stift_Pfarrkirche_Mari%C3%A4_Himmelfahrt_Emporenaufgang_Arkade_04112015_8628.jpg",
-    "caption": "Stift Ossiach"
    }
   ],
   "gerlitzen": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg/1280px-Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "width": 1000,
     "height": 666,
@@ -132,6 +123,33 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "caption": "Gerlitzen"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg/1280px-Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg",
+    "width": 1000,
+    "height": 580,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sonnenobservatorium_%22Kanzelh%C3%B6he%22_Gerlitzen,_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz.jpg",
+    "caption": "Kanzelhöhe"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "caption": "Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Annenheim.jpg/1280px-Annenheim.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "MHM2011",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Annenheim.jpg",
+    "caption": "Annenheim"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
@@ -143,44 +161,17 @@
     "caption": "Gerlitzen"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg/1280px-Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen%2C_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg",
     "width": 1000,
-    "height": 626,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "width": 1000,
-    "height": 651,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg/1280px-Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 596,
+    "height": 725,
     "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen,_Neugarten_Almseeh%C3%BCtte_(1600_m_%C3%BC.A.),_K%C3%A4rnten.jpg",
-    "caption": "Gerlitzen"
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Solarzentrum_%22Kanzelh%C3%B6he%22_Gerlitzen,_Villach_der_Karl-Franzens-Universit%C3%A4t_Graz_f%C3%BCr_Sonnen-_und_Umweltforschung.jpg",
+    "caption": "Kanzelhöhe"
    }
   ],
   "feuerberg": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg/1280px-Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "width": 1000,
     "height": 666,
@@ -188,6 +179,33 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "caption": "Gerlitzen"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "caption": "Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "caption": "Bodensdorf"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gerlitzen_Alpenstra%C3%9Fe.jpg/1280px-Gerlitzen_Alpenstra%C3%9Fe.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Kliek",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen_Alpenstra%C3%9Fe.jpg",
+    "caption": "Gerlitzen Alpenstraße"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
@@ -199,31 +217,13 @@
     "caption": "Gerlitzen"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg/1280px-Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
     "width": 1000,
-    "height": 626,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "width": 1000,
-    "height": 651,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg/1280px-Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 596,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen,_Neugarten_Almseeh%C3%BCtte_(1600_m_%C3%BC.A.),_K%C3%A4rnten.jpg",
-    "caption": "Gerlitzen"
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
+    "caption": "Ossiacher See"
    }
   ],
   "feldkirchen": [
@@ -237,13 +237,31 @@
     "caption": "Feldkirchen in Kärnten"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Feldkirchen_Rottendorf_Filialkirche_hll_Wolfgang_und_Magdalena_Portal_und_Altar_13042017_7455.jpg/1280px-Feldkirchen_Rottendorf_Filialkirche_hll_Wolfgang_und_Magdalena_Portal_und_Altar_13042017_7455.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg/1280px-Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
     "width": 1000,
-    "height": 689,
+    "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Rottendorf_Filialkirche_hll_Wolfgang_und_Magdalena_Portal_und_Altar_13042017_7455.jpg",
-    "caption": "Feldkirchen in Kärnten"
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Uferweg_31_Steinhaus_20042016_1688.jpg",
+    "caption": "Steindorf am Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg/1280px-Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mit_Ossiacher_See_04112015_2175.jpg",
+    "caption": "Ossiacher See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg/1280px-Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
+    "width": 1000,
+    "height": 669,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Stift_Westfl%C3%BCgel_Mittelrisalit_mit_Portal_04112015_2168.jpg",
+    "caption": "Stift Ossiach"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Feldkirchen_Kirchgasse_6_Wohn-und_Gesch%C3%A4ftshaus_Parapet-Fenster_06062019_7122.jpg/1280px-Feldkirchen_Kirchgasse_6_Wohn-und_Gesch%C3%A4ftshaus_Parapet-Fenster_06062019_7122.jpg",
@@ -255,31 +273,13 @@
     "caption": "Feldkirchen in Kärnten"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Feldkirchen_Hauptplatz_Nymphenbrunnen_Brunnenfigur_28062016_2974.jpg/1280px-Feldkirchen_Hauptplatz_Nymphenbrunnen_Brunnenfigur_28062016_2974.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg/1280px-Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
     "width": 1000,
-    "height": 1498,
+    "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Hauptplatz_Nymphenbrunnen_Brunnenfigur_28062016_2974.jpg",
-    "caption": "Feldkirchen in Kärnten"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Feldkirchen_Stadtpfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_19042018_3035.jpg/1280px-Feldkirchen_Stadtpfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_19042018_3035.jpg",
-    "width": 1000,
-    "height": 1621,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Stadtpfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_19042018_3035.jpg",
-    "caption": "Feldkirchen in Kärnten"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Feldkirchen_Kirchgasse_34_Wohnhaus_Portal_06062019_7171.jpg/1280px-Feldkirchen_Kirchgasse_34_Wohnhaus_Portal_06062019_7171.jpg",
-    "width": 1000,
-    "height": 1337,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Kirchgasse_34_Wohnhaus_Portal_06062019_7171.jpg",
-    "caption": "Feldkirchen in Kärnten"
+    "page": "https://commons.wikimedia.org/wiki/File:Steindorf_am_Ossiacher_See_Tiffen_Kapelle_Hl._Grab_20042016_1658.jpg",
+    "caption": "Steindorf am Ossiacher See"
    }
   ],
   "ossiachertauern": [
@@ -293,13 +293,40 @@
     "caption": "Ossiach"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ossiach_1_Pfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_07032015_0406.jpg/1280px-Ossiach_1_Pfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_07032015_0406.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg/1280px-Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
     "width": 1000,
-    "height": 779,
+    "height": 666,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_1_Pfarrkirche_Mari%C3%A4_Himmelfahrt_mit_Friedhof_07032015_0406.jpg",
-    "caption": "Ossiach"
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Gratschach_Burgruine_Landskron_29042015_0841.jpg",
+    "caption": "Burg Landskron"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
+    "width": 1000,
+    "height": 224,
+    "author": "Checkerboy1996",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
+    "caption": "Wörthersee"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "caption": "Köstenberg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg/1280px-Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg",
+    "width": 1000,
+    "height": 669,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Wernberg_Drauschleife_Herbststimmung_19102007_01.jpg",
+    "caption": "Wernberg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg/1280px-Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg",
@@ -309,36 +336,18 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4581.jpg",
     "caption": "Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4590.jpg/1280px-Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4590.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Schiffsanlegestelle_MS_Ossiach_am_Landungssteg_06102016_4590.jpg",
-    "caption": "Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ossiach_Ossiacher_See_MS_Ossiach_auf_Fahrt_06102016_4595.jpg/1280px-Ossiach_Ossiacher_See_MS_Ossiach_auf_Fahrt_06102016_4595.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ossiach_Ossiacher_See_MS_Ossiach_auf_Fahrt_06102016_4595.jpg",
-    "caption": "Ossiach"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg/1280px-Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg",
-    "width": 1000,
-    "height": 1419,
-    "author": "Uoaei1",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Stift_Ossiach_Kirche_Fl%C3%BCgelaltar_01.jpg",
-    "caption": "Ossiach"
    }
   ],
   "faaker": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "width": 1000,
+    "height": 940,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "caption": "Mittagskogel"
+   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
     "width": 1000,
@@ -346,64 +355,46 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
-    "caption": "Faaker See"
+    "caption": "Faak am See"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg/1280px-Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
+    "width": 1000,
+    "height": 479,
+    "author": "JJ55",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
+    "caption": "Villach"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drobollach_Faaker_See_2011-08-02.jpg/1280px-Drobollach_Faaker_See_2011-08-02.jpg",
+    "width": 1000,
+    "height": 770,
+    "author": "Gugganij",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Drobollach_Faaker_See_2011-08-02.jpg",
+    "caption": "Drobollach"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/MittagskogelPitztalVonN.jpg/1280px-MittagskogelPitztalVonN.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Cactus26",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MittagskogelPitztalVonN.jpg",
+    "caption": "Mittagskogel"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Finkenstein_am_Faaker_See_Faak_am_See_Bachstra%C3%9Fe_Seebach_15042021_0804.jpg/1280px-Finkenstein_am_Faaker_See_Faak_am_See_Bachstra%C3%9Fe_Seebach_15042021_0804.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Faak_am_See_Bachstra%C3%9Fe_Seebach_15042021_0804.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0808.jpg/1280px-Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0808.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0808.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0810.jpg/1280px-Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0810.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Faak_am_See_Inselweg_Insel-Transfer_15042021_0810.jpg",
-    "caption": "Faaker See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Finkenstein_am_Faaker_See_Faak_am_See_Faaker_See_30_Insel-Hotel_15042021_0811.jpg/1280px-Finkenstein_am_Faaker_See_Faak_am_See_Faaker_See_30_Insel-Hotel_15042021_0811.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Faak_am_See_Faaker_See_30_Insel-Hotel_15042021_0811.jpg",
-    "caption": "Faaker See"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0602.jpg",
+    "caption": "Faak am See"
    }
   ],
   "gerlitzenokruh": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg/1280px-Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Nassweg_und_Gerlitzen_05032015_0270.jpg",
-    "caption": "Gerlitzen"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "width": 1000,
@@ -412,6 +403,33 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
     "caption": "Gerlitzen"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg/1280px-Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arriach_OSO-Ansicht_mit_evangelischer_Vier-Evangelisten-Kirche_05062017_9057.jpg",
+    "caption": "Arriach"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg/1280px-Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Michielverbeek",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Himmelberg,_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
+    "caption": "Himmelberg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg/1280px-Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
+    "caption": "Treffen am Ossiacher See"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg/1280px-Wernberg_Gerlitzen_SO-Ansicht_24022021_8727.jpg",
@@ -423,43 +441,16 @@
     "caption": "Gerlitzen"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg/1280px-Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg",
     "width": 1000,
-    "height": 626,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_02_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg/1280px-9241_Wernberg%2C_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "width": 1000,
-    "height": 651,
-    "author": "Hangman'sDeath",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:9241_Wernberg,_Kanzelh%C3%B6he_-_Gerlitzen_01_2022-10-31.jpg",
-    "caption": "Gerlitzen"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg/1280px-Gerlitzen%2C_Neugarten_Almseeh%C3%BCtte_%281600_m_%C3%BC.A.%29%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 596,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Gerlitzen,_Neugarten_Almseeh%C3%BCtte_(1600_m_%C3%BC.A.),_K%C3%A4rnten.jpg",
-    "caption": "Gerlitzen"
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arriach_62_Feuerwehr_N-Ansicht_29042024_4957.jpg",
+    "caption": "Arriach"
    }
   ],
   "villacher": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Villacher_Alpenstra%C3%9Fe1.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Ulflulfl",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Villacher_Alpenstra%C3%9Fe1.jpg",
-    "caption": "Villacher Alpenstraße"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1024_Villacher_Alpenstra%C3%9Fe%2C_Ro%C3%9Ftratte-2292.jpg",
     "width": 1000,
@@ -470,6 +461,42 @@
     "caption": "Villacher Alpenstraße"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hohenthurn_mit_Dobratsch_20052007_03.jpg/1280px-Hohenthurn_mit_Dobratsch_20052007_03.jpg",
+    "width": 1000,
+    "height": 669,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hohenthurn_mit_Dobratsch_20052007_03.jpg",
+    "caption": "Dobratsch"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
+    "width": 1000,
+    "height": 479,
+    "author": "JJ55",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
+    "caption": "Villach"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg/1280px-Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Cinque_Punte_Blick_von_Rosstratte_13022015_9789.jpg",
+    "caption": "Rosstratte"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Karavanke1.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "neuveden",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Karavanke1.jpg",
+    "caption": "Karawanken"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg/1280px-Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg",
     "width": 1000,
     "height": 750,
@@ -477,89 +504,62 @@
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Rastplatz_an_der_Villacher_Alpenstra%C3%9Fe_-_panoramio.jpg",
     "caption": "Villacher Alpenstraße"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Storfh%C3%B6he_%28972_m_%C3%BC.A.%29%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg/1280px-Storfh%C3%B6he_%28972_m_%C3%BC.A.%29%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Storfh%C3%B6he_(972_m_%C3%BC.A.),_Villacher_Alpenstra%C3%9Fe,_K%C3%A4rnten.jpg",
-    "caption": "Villacher Alpenstraße"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Martin_Koch_Kehre_Nr._3%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg/1280px-Martin_Koch_Kehre_Nr._3%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Martin_Koch_Kehre_Nr._3,_Villacher_Alpenstra%C3%9Fe,_K%C3%A4rnten.jpg",
-    "caption": "Villacher Alpenstraße"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thomas_Morgenstern_Kehre_Nr._1%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg/1280px-Thomas_Morgenstern_Kehre_Nr._1%2C_Villacher_Alpenstra%C3%9Fe%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thomas_Morgenstern_Kehre_Nr._1,_Villacher_Alpenstra%C3%9Fe,_K%C3%A4rnten.jpg",
-    "caption": "Villacher Alpenstraße"
    }
   ],
   "faakerwoerther": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
     "width": 1000,
-    "height": 666,
+    "height": 695,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
-    "caption": "Velden am Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "caption": "Faaker See"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Velden_am_Woerther_See_Seecorso_mit_See-Blick_03042015_1433.jpg/1280px-Velden_am_Woerther_See_Seecorso_mit_See-Blick_03042015_1433.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rosegg_Schloss_S-Seite_25092013_3196.jpg/1280px-Rosegg_Schloss_S-Seite_25092013_3196.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Seite_25092013_3196.jpg",
+    "caption": "Schloss Rosegg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
+    "width": 1000,
+    "height": 224,
+    "author": "Checkerboy1996",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
+    "caption": "Wörthersee"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "width": 1000,
+    "height": 940,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "caption": "Mittagskogel"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg/1280px-Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_Woerther_See_Seecorso_mit_See-Blick_03042015_1433.jpg",
-    "caption": "Velden am Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_am_Faaker_See_Altfinkenstein_14_Burgruine_und_Faaker_See_15042021_0827.jpg",
+    "caption": "Faaker See"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Velden_am_W%C3%B6rther_See_Seecorso_Elektro-Boote_06052019_6714.jpg/1280px-Velden_am_W%C3%B6rther_See_Seecorso_Elektro-Boote_06052019_6714.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Seecorso_Elektro-Boote_06052019_6714.jpg",
-    "caption": "Velden am Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Velden_am_W%C3%B6rthersee%2C_de_W%C3%B6rthersee_IMG_1888_2019-08-11_14.25.jpg/1280px-Velden_am_W%C3%B6rthersee%2C_de_W%C3%B6rthersee_IMG_1888_2019-08-11_14.25.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Michielverbeek",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rthersee,_de_W%C3%B6rthersee_IMG_1888_2019-08-11_14.25.jpg",
-    "caption": "Velden am Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Velden_am_W%C3%B6rther_See_Sternberg_Blick_zum_W%C3%B6rther_See_und_Pyramidenkogel_09102021_1565.jpg/1280px-Velden_am_W%C3%B6rther_See_Sternberg_Blick_zum_W%C3%B6rther_See_und_Pyramidenkogel_09102021_1565.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rosegg_Schloss_S-Ansicht_02032015_0301.jpg/1280px-Rosegg_Schloss_S-Ansicht_02032015_0301.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Sternberg_Blick_zum_W%C3%B6rther_See_und_Pyramidenkogel_09102021_1565.jpg",
-    "caption": "Velden am Wörthersee"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Velden_am_W%C3%B6rther_See_N-Ansicht_09082022_2808.jpg/1280px-Velden_am_W%C3%B6rther_See_N-Ansicht_09082022_2808.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_N-Ansicht_09082022_2808.jpg",
-    "caption": "Velden am Wörthersee"
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Ansicht_02032015_0301.jpg",
+    "caption": "Schloss Rosegg"
    }
   ],
   "rosental": [
@@ -573,6 +573,42 @@
     "caption": "Karawanken"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg/1280px-Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg",
+    "width": 1000,
+    "height": 568,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Jakob_im_Rosental_31_Pfarrhof_15102016_4964.jpg",
+    "caption": "St. Jakob im Rosental"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg/1280px-Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maria_Rain_Kaiserh%C3%BCtte_Rosental-Blick_nach_Westen_18082013_122.jpg",
+    "caption": "Rosental (Kärnten)"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rosegg_Schloss_S-Seite_25092013_3196.jpg/1280px-Rosegg_Schloss_S-Seite_25092013_3196.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosegg_Schloss_S-Seite_25092013_3196.jpg",
+    "caption": "Schloss Rosegg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "width": 1000,
+    "height": 940,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "caption": "Mittagskogel"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg/1280px-Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg",
     "width": 1000,
     "height": 669,
@@ -580,98 +616,62 @@
     "license": "CC BY-SA 3.0 at",
     "page": "https://commons.wikimedia.org/wiki/File:Magdalensberg_Blick_auf_die_Karawanken_und_Julischen_Alpen_20122007_991.jpg",
     "caption": "Karawanken"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ferlach_Bodental_Bodenbauer_mit_Vertatscha_24102017_5697.jpg/1280px-Ferlach_Bodental_Bodenbauer_mit_Vertatscha_24102017_5697.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ferlach_Bodental_Bodenbauer_mit_Vertatscha_24102017_5697.jpg",
-    "caption": "Karawanken"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ridge_of_Veliki_Vrh%2C_Karawanks%2C_Slovenia_11.jpg/1280px-Ridge_of_Veliki_Vrh%2C_Karawanks%2C_Slovenia_11.jpg",
-    "width": 1000,
-    "height": 642,
-    "author": "Michal Klajban",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ridge_of_Veliki_Vrh,_Karawanks,_Slovenia_11.jpg",
-    "caption": "Karawanken"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Geopark_Karawanken%2C_S%C3%BCdk%C3%A4rnten.jpg/1280px-Geopark_Karawanken%2C_S%C3%BCdk%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 582,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Geopark_Karawanken,_S%C3%BCdk%C3%A4rnten.jpg",
-    "caption": "Karawanken"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Velden_am_W%C3%B6rther_See_Augsdorf_Kathreinkogel_Karawanken_18012022_9055.jpg/1280px-Velden_am_W%C3%B6rther_See_Augsdorf_Kathreinkogel_Karawanken_18012022_9055.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Augsdorf_Kathreinkogel_Karawanken_18012022_9055.jpg",
-    "caption": "Karawanken"
    }
   ],
   "draupaternion": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bij_Bad_Jungbrunn%2C_de_Drau_IMG_1574_2019-08-08_11.08.jpg/1280px-Bij_Bad_Jungbrunn%2C_de_Drau_IMG_1574_2019-08-08_11.08.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paternion_Bahnhofstra%C3%9Fe_49%2C_50_Wohnhaus_Erkerfenster_23072023_4266.jpg/1280px-Paternion_Bahnhofstra%C3%9Fe_49%2C_50_Wohnhaus_Erkerfenster_23072023_4266.jpg",
     "width": 1000,
-    "height": 671,
-    "author": "Michielverbeek",
+    "height": 750,
+    "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bij_Bad_Jungbrunn,_de_Drau_IMG_1574_2019-08-08_11.08.jpg",
-    "caption": "Drau"
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Bahnhofstra%C3%9Fe_49,_50_Wohnhaus_Erkerfenster_23072023_4266.jpg",
+    "caption": "Paternion"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
+    "width": 1000,
+    "height": 615,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
+    "caption": "Afritzer See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg/1280px-Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
-    "caption": "Drau"
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
+    "caption": "Feistritz an der Drau"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Spittal_an_der_Drau_Lieser-Fluss_N-Ansicht_31082023_4369.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_N-Ansicht_31082023_4369.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg/1280px-Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_N-Ansicht_31082023_4369.jpg",
-    "caption": "Drau"
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_Burgruine_Landskron_Blick_auf_Treffen_und_Gegendtal_20042016_1720.jpg",
+    "caption": "Treffen am Ossiacher See"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Spittal_an_der_Drau_Lieserrain_Lieser-Fluss_31082023_4370.jpg/1280px-Spittal_an_der_Drau_Lieserrain_Lieser-Fluss_31082023_4370.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg/1280px-Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg",
     "width": 1000,
-    "height": 667,
+    "height": 1679,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieserrain_Lieser-Fluss_31082023_4370.jpg",
-    "caption": "Drau"
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Bahnhofstra%C3%9Fe_49_Wohnhaus_Portal_und_Erker_23072023_4261.jpg",
+    "caption": "Paternion"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Spittal_an_der_Drau_Lieser-Fluss_NW-Ansicht_31082023_4368.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_NW-Ansicht_31082023_4368.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Afritzer_See%2C_Slow_Trail%2C_K%C3%A4rnten_11.jpg/1280px-Afritzer_See%2C_Slow_Trail%2C_K%C3%A4rnten_11.jpg",
     "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_NW-Ansicht_31082023_4368.jpg",
-    "caption": "Drau"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spittal_an_der_Drau%2C_kerktoren_van_de_Pfarrkirche_Maria_Verk%C3%BCndigung_Dm62954_IMG_1737_2019-08-09_18.31.jpg/1280px-Spittal_an_der_Drau%2C_kerktoren_van_de_Pfarrkirche_Maria_Verk%C3%BCndigung_Dm62954_IMG_1737_2019-08-09_18.31.jpg",
-    "width": 1000,
-    "height": 1502,
-    "author": "Michielverbeek",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau,_kerktoren_van_de_Pfarrkirche_Maria_Verk%C3%BCndigung_Dm62954_IMG_1737_2019-08-09_18.31.jpg",
-    "caption": "Drau"
+    "height": 498,
+    "author": "Naturpuur",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_See,_Slow_Trail,_K%C3%A4rnten_11.jpg",
+    "caption": "Afritzer See"
    }
   ],
   "caar": [
@@ -685,6 +685,42 @@
     "caption": "Tarvisio"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg/1280px-Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
+    "caption": "Arnoldstein"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Polyommatinae_Julian_Alps_Slovenia_2.jpg/1280px-Polyommatinae_Julian_Alps_Slovenia_2.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "User:Cfp",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Polyommatinae_Julian_Alps_Slovenia_2.jpg",
+    "caption": "Julische Alpen"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "width": 1000,
+    "height": 695,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "caption": "Faaker See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ratece_from_Visoka_Ponca.jpg/1280px-Ratece_from_Visoka_Ponca.jpg",
+    "width": 1000,
+    "height": 669,
+    "author": "Matija Podhraški",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ratece_from_Visoka_Ponca.jpg",
+    "caption": "Rateče"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Big_air_sofa_%28deflating%29_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_%28Tarvisio%29.jpg/1280px-Big_air_sofa_%28deflating%29_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_%28Tarvisio%29.jpg",
     "width": 1000,
     "height": 750,
@@ -692,54 +728,9 @@
     "license": "CC BY 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Big_air_sofa_(deflating)_and_stands_behind_Piazza_Unit%C3%A0_for_the_Alpenfest_2013_(Tarvisio).jpg",
     "caption": "Tarvisio"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lago_del_Predil%2C_Tarvisio%2C_2013.jpg/1280px-Lago_del_Predil%2C_Tarvisio%2C_2013.jpg",
-    "width": 1000,
-    "height": 665,
-    "author": "DimiTalen",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lago_del_Predil,_Tarvisio,_2013.jpg",
-    "caption": "Tarvisio"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tarvisio%2C_view_of_Via_Roma.jpg/1280px-Tarvisio%2C_view_of_Via_Roma.jpg",
-    "width": 1000,
-    "height": 748,
-    "author": "Ajznponar",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio,_view_of_Via_Roma.jpg",
-    "caption": "Tarvisio"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/TarvisioPaissage.jpg/1280px-TarvisioPaissage.jpg",
-    "width": 1000,
-    "height": 1333,
-    "author": "Clrmrt",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:TarvisioPaissage.jpg",
-    "caption": "Tarvisio"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Caserma_Italia%2C_Tarvisio.png",
-    "width": 1000,
-    "height": 1049,
-    "author": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Caserma_Italia,_Tarvisio.png",
-    "caption": "Tarvisio"
    }
   ],
   "kleinkirchheim": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Town_Hall_of_Bad_Kleinkirchheim_2012_S.jpg/1280px-Town_Hall_of_Bad_Kleinkirchheim_2012_S.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Hans G. Oberlack",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Town_Hall_of_Bad_Kleinkirchheim_2012_S.jpg",
-    "caption": "Bad Kleinkirchheim"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7547.jpg/1280px-Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7547.jpg",
     "width": 1000,
@@ -750,39 +741,48 @@
     "caption": "Bad Kleinkirchheim"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
+    "width": 1000,
+    "height": 615,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
+    "caption": "Afritzer See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg/1280px-Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
+    "caption": "Feld am See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg/1280px-Himmelberg%2C_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Michielverbeek",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Himmelberg,_Pfarrkirche_heiliger_Martin_in_straatzicht_foto1_2011-07-25_14.27.jpg",
+    "caption": "Himmelberg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
+    "width": 1000,
+    "height": 666,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
+    "caption": "Gerlitzen"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg/1280px-Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 3.0 at",
     "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_Sankt_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_17092015_7549.jpg",
-    "caption": "Bad Kleinkirchheim"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Tuerbeschlag_17092015_7572.jpg/1280px-Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Tuerbeschlag_17092015_7572.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Tuerbeschlag_17092015_7572.jpg",
-    "caption": "Bad Kleinkirchheim"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Grabsteine_17092015_7574.jpg/1280px-Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Grabsteine_17092015_7574.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_St_Oswald_Kirchweg_16_Pfarrkirche_hl_Oswald_Grabsteine_17092015_7574.jpg",
-    "caption": "Bad Kleinkirchheim"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bad_Kleinkirchheim_Dorfstrasse_evang_Filialkirche_17092015_7594.jpg/1280px-Bad_Kleinkirchheim_Dorfstrasse_evang_Filialkirche_17092015_7594.jpg",
-    "width": 1000,
-    "height": 1223,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Bad_Kleinkirchheim_Dorfstrasse_evang_Filialkirche_17092015_7594.jpg",
     "caption": "Bad Kleinkirchheim"
    }
   ],
@@ -797,6 +797,42 @@
     "caption": "Dobratsch"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1024_Villacher_Alpenstra%C3%9Fe%2C_Ro%C3%9Ftratte-2292.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Hedwig Storch",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1024_Villacher_Alpenstra%C3%9Fe,_Ro%C3%9Ftratte-2292.jpg",
+    "caption": "Villacher Alpenstraße"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg/1280px-Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "width": 1000,
+    "height": 695,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Faak_am_See_Kreisverkehr_Rosental_Strasse_Bikermonument_20022016_0601.jpg",
+    "caption": "Faaker See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg/1280px-Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "width": 1000,
+    "height": 940,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Finkenstein_Altfinkenstein_Mittagskogel_18052007_02.jpg",
+    "caption": "Mittagskogel"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villach_-_Hauptbahnhof.jpg/1280px-Villach_-_Hauptbahnhof.jpg",
+    "width": 1000,
+    "height": 479,
+    "author": "JJ55",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Villach_-_Hauptbahnhof.jpg",
+    "caption": "Villach"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg/1280px-Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg",
     "width": 1000,
     "height": 666,
@@ -804,54 +840,9 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Villach_Dobratsch_Rosstratte_Almh%C3%BCtten_mit_H%C3%B6henrain_13022015_9830.jpg",
     "caption": "Dobratsch"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
-    "caption": "Dobratsch"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arnoldstein_Radendorf_Wallfahrtskirche_Maria_Siebenbruenn_mit_Dobratsch_23052016_2048.jpg/1280px-Arnoldstein_Radendorf_Wallfahrtskirche_Maria_Siebenbruenn_mit_Dobratsch_23052016_2048.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arnoldstein_Radendorf_Wallfahrtskirche_Maria_Siebenbruenn_mit_Dobratsch_23052016_2048.jpg",
-    "caption": "Dobratsch"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg/1280px-Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arnoldstein_Ruine_des_Benediktinerklosters_und_Dobratsch_S-Ansicht_05102016_4723.jpg",
-    "caption": "Dobratsch"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Arnoldstein_Dobratsch_Sued-Ansicht_05102016_4707.jpg/1280px-Arnoldstein_Dobratsch_Sued-Ansicht_05102016_4707.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Arnoldstein_Dobratsch_Sued-Ansicht_05102016_4707.jpg",
-    "caption": "Dobratsch"
    }
   ],
   "windische": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal_samt_Dobratsch%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg/1280px-%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal_samt_Dobratsch%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Liberaler Humanist",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal_samt_Dobratsch,_Gailtalbahn,_M%C3%A4rz_2017.jpg",
-    "caption": "Gailtal"
-   },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg/1280px-%C3%96BB_5022_bei_N%C3%B6tsch_im_Gailtal%2C_Gailtalbahn%2C_M%C3%A4rz_2017.jpg",
     "width": 1000,
@@ -862,6 +853,42 @@
     "caption": "Gailtal"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brunnen%2C_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg/1280px-Brunnen%2C_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg",
+    "width": 1000,
+    "height": 679,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brunnen,_N%C3%B6tsch_im_Gailtal,_K%C3%A4rnten.jpg",
+    "caption": "Nötsch im Gailtal"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "caption": "Drau"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg/1280px-Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paternion_Feistritz_an_der_Drau_Kirchenweg_%C3%B6stl._Friedhofstor_23072023_4175.jpg",
+    "caption": "Feistritz an der Drau"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Karnische_Alpen%2C_Val_Fleons.JPG/1280px-Karnische_Alpen%2C_Val_Fleons.JPG",
+    "width": 1000,
+    "height": 750,
+    "author": "Schlesinger",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Karnische_Alpen,_Val_Fleons.JPG",
+    "caption": "Karnische Alpen"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_Wegweiser.jpg/1280px-Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_Wegweiser.jpg",
     "width": 1000,
     "height": 599,
@@ -869,156 +896,35 @@
     "license": "CC BY 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Marktgemeinde_N%C3%B6tsch_im_Gailtal,_Wegweiser.jpg",
     "caption": "Gailtal"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aufbahrungshalle_in_Saak%2C_Fresken_Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg/1280px-Aufbahrungshalle_in_Saak%2C_Fresken_Marktgemeinde_N%C3%B6tsch_im_Gailtal%2C_K%C3%A4rnten.jpg",
-    "width": 1000,
-    "height": 462,
-    "author": "Naturpuur",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Aufbahrungshalle_in_Saak,_Fresken_Marktgemeinde_N%C3%B6tsch_im_Gailtal,_K%C3%A4rnten.jpg",
-    "caption": "Gailtal"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aerial_image_of_the_N%C3%B6tsch_im_Gailtal_airfield.jpg/1280px-Aerial_image_of_the_N%C3%B6tsch_im_Gailtal_airfield.jpg",
-    "width": 1000,
-    "height": 646,
-    "author": "Carsten Steger",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_N%C3%B6tsch_im_Gailtal_airfield.jpg",
-    "caption": "Gailtal"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Unteres_Gailtal_-_Panorama.JPG/1280px-Unteres_Gailtal_-_Panorama.JPG",
-    "width": 1000,
-    "height": 591,
-    "author": "C.Stadler/Bwag",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Unteres_Gailtal_-_Panorama.JPG",
-    "caption": "Gailtal"
    }
   ],
   "woerthersee": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/P%C3%B6rtschach_Hans_Pruscha_Weg_W%C3%B6rther_See_mit_Maria_W%C3%B6rth_19112017_2023.jpg/1280px-P%C3%B6rtschach_Hans_Pruscha_Weg_W%C3%B6rther_See_mit_Maria_W%C3%B6rth_19112017_2023.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
     "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Hans_Pruscha_Weg_W%C3%B6rther_See_mit_Maria_W%C3%B6rth_19112017_2023.jpg",
-    "caption": "Maria Wörth"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Rosenkranzkirche_ONO-Ansicht_06052019_6767.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Rosenkranzkirche_ONO-Ansicht_06052019_6767.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Rosenkranzkirche_ONO-Ansicht_06052019_6767.jpg",
-    "caption": "Maria Wörth"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg/1280px-Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Pfarrkirche_hll._Primus_und_Felizian_und_Gerlitzen_Ost-Ansicht_06052019_6854.jpg",
-    "caption": "Maria Wörth"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maria_W%C3%B6rth_Rosenkranzkirche_NNO-Ansicht_06052019_6759.jpg/1280px-Maria_W%C3%B6rth_Rosenkranzkirche_NNO-Ansicht_06052019_6759.jpg",
-    "width": 1000,
-    "height": 666,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Rosenkranzkirche_NNO-Ansicht_06052019_6759.jpg",
-    "caption": "Maria Wörth"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Maria_W%C3%B6rth_Rosenkranzkirche_Apsisfenster_Mondsichelmadonna_25092014_3808.jpg/1280px-Maria_W%C3%B6rth_Rosenkranzkirche_Apsisfenster_Mondsichelmadonna_25092014_3808.jpg",
-    "width": 1000,
-    "height": 1502,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Rosenkranzkirche_Apsisfenster_Mondsichelmadonna_25092014_3808.jpg",
-    "caption": "Maria Wörth"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Maria_W%C3%B6rth_Freisingerplatz_Nischenbildstock_NW-Ansicht_05122018_6370.jpg/1280px-Maria_W%C3%B6rth_Freisingerplatz_Nischenbildstock_NW-Ansicht_05122018_6370.jpg",
-    "width": 1000,
-    "height": 1502,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_W%C3%B6rth_Freisingerplatz_Nischenbildstock_NW-Ansicht_05122018_6370.jpg",
-    "caption": "Maria Wörth"
-   }
-  ],
-  "millstatt": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Millst%C3%A4tter_See_U148.JPG",
-    "width": 1000,
-    "height": 749,
-    "author": "Papa1234 at German Wikipedia",
+    "height": 224,
+    "author": "Checkerboy1996",
     "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_See_U148.JPG",
-    "caption": "Millstätter See"
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
+    "caption": "Wörthersee"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg/1280px-Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
-    "width": 1000,
-    "height": 797,
-    "author": "Jakob Canciani",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
-    "caption": "Millstätter See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Millst%C3%A4tter_See_Ost_01_2013.JPG/1280px-Millst%C3%A4tter_See_Ost_01_2013.JPG",
-    "width": 1000,
-    "height": 751,
-    "author": "joadl",
-    "license": "CC BY-SA 3.0 at",
-    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_See_Ost_01_2013.JPG",
-    "caption": "Millstätter See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Seeblickweg_54%2C_Seeboden.jpg/1280px-Seeblickweg_54%2C_Seeboden.jpg",
-    "width": 1000,
-    "height": 750,
-    "author": "Michael König (Urlau)",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Seeblickweg_54,_Seeboden.jpg",
-    "caption": "Millstätter See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_Millst%C3%A4tter_See_%28view_from_the_south%29.jpg/1280px-Aerial_image_of_Millst%C3%A4tter_See_%28view_from_the_south%29.jpg",
-    "width": 1000,
-    "height": 618,
-    "author": "Carsten Steger",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Millst%C3%A4tter_See_(view_from_the_south).jpg",
-    "caption": "Millstätter See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg/1280px-Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg/1280px-P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
-    "caption": "Stift Millstatt"
-   }
-  ],
-  "klopeiner": [
+    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Leonstein_Hohe_Gloriette_21102015_8354.jpg",
+    "caption": "Pörtschach am Wörther See"
+   },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Klagenfurt_Annabichl_Waltendorfer_Strasse_Hochsitz_im_Morgendunst_04022016_2686.jpg/1280px-Klagenfurt_Annabichl_Waltendorfer_Strasse_Hochsitz_im_Morgendunst_04022016_2686.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg/1280px-Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
     "width": 1000,
-    "height": 618,
+    "height": 666,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Annabichl_Waltendorfer_Strasse_Hochsitz_im_Morgendunst_04022016_2686.jpg",
-    "caption": "Klagenfurt"
+    "page": "https://commons.wikimedia.org/wiki/File:Velden_am_W%C3%B6rther_See_Unterwinklern_mit_Dobratsch_03042015_0657.jpg",
+    "caption": "Velden am Wörthersee"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
@@ -1030,6 +936,118 @@
     "caption": "Klagenfurt"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/W%C3%B6rthersee_Schifffahrt_Inserat.jpg",
+    "width": 1000,
+    "height": 531,
+    "author": "neuveden",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee_Schifffahrt_Inserat.jpg",
+    "caption": "Wörthersee"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg/1280px-P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Gloriette-Blick_auf_W%C3%B6rther_See_und_Blumeninsel_19112015_9211.jpg",
+    "caption": "Pörtschach am Wörther See"
+   }
+  ],
+  "millstatt": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg/1280px-Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
+    "width": 1000,
+    "height": 797,
+    "author": "Jakob Canciani",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jakob_Canciani_Partie_am_Millst%C3%A4tter_See.jpg",
+    "caption": "Millstätter See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg/1280px-Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Millstatt_Benediktinerstift_Kreuzgang_Ostfl%C3%BCgel_s%C3%BCdliche_Viererarkade_20042015_2340.jpg",
+    "caption": "Stift Millstatt"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg/1280px-Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Spittal_an_der_Drau_Lieser-Fluss_31082023_4378.jpg",
+    "caption": "Spittal an der Drau"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afritzer_see_2003.jpg/1280px-Afritzer_see_2003.jpg",
+    "width": 1000,
+    "height": 615,
+    "author": "Naturpuur",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Afritzer_see_2003.jpg",
+    "caption": "Afritzer See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg/1280px-Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
+    "width": 1000,
+    "height": 662,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Feld_am_See_Gegendtal_Brennsee_12082007_02.jpg",
+    "caption": "Feld am See"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Millst%C3%A4tter_See_Ost_01_2013.JPG/1280px-Millst%C3%A4tter_See_Ost_01_2013.JPG",
+    "width": 1000,
+    "height": 751,
+    "author": "joadl",
+    "license": "CC BY-SA 3.0 at",
+    "page": "https://commons.wikimedia.org/wiki/File:Millst%C3%A4tter_See_Ost_01_2013.JPG",
+    "caption": "Millstätter See"
+   }
+  ],
+  "klopeiner": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_SW-Ansicht_18052020_9029.jpg",
+    "caption": "Klagenfurt"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg/1280px-V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Aufbahrungshalle_13102021_1682.jpg",
+    "caption": "Völkermarkt"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg/1280px-Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg",
+    "width": 1000,
+    "height": 667,
+    "author": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sankt_Veit_an_der_Glan_B%C3%BCrgergasse_Klosterkirche_Zu_Unserer_Lieben_Frau_18052018_3372.jpg",
+    "caption": "St. Veit an der Glan"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/W%C3%B6rthersee.JPG/1280px-W%C3%B6rthersee.JPG",
+    "width": 1000,
+    "height": 224,
+    "author": "Checkerboy1996",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%B6rthersee.JPG",
+    "caption": "Wörthersee"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_Inschrift_mit_Grimassenkopf_23082020_7668.jpg/1280px-Klagenfurt_Innere_Stadt_Theaterplatz_4_Stadttheater_Inschrift_mit_Grimassenkopf_23082020_7668.jpg",
     "width": 1000,
     "height": 705,
@@ -1039,32 +1057,13 @@
     "caption": "Klagenfurt"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aau_luftbild.jpg/1280px-Aau_luftbild.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg/1280px-V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg",
     "width": 1000,
-    "height": 666,
-    "author": "Uniklupresse",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Aau_luftbild.jpg",
-    "caption": "Klagenfurt",
-    "article": "Universität Klagenfurt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Klagenfurt_Domplatz_Stadtpfarrkirche_Hll_Peter_und_Paul_09092015_7245.jpg/1280px-Klagenfurt_Domplatz_Stadtpfarrkirche_Hll_Peter_und_Paul_09092015_7245.jpg",
-    "width": 1000,
-    "height": 1091,
+    "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_Domplatz_Stadtpfarrkirche_Hll_Peter_und_Paul_09092015_7245.jpg",
-    "caption": "Klagenfurt"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Klagenfurt_W%C3%B6lfnitz_Filialkirche_St_Peter_am_Bichl_Kirchenportal_Detail_03102015_1582.jpg/1280px-Klagenfurt_W%C3%B6lfnitz_Filialkirche_St_Peter_am_Bichl_Kirchenportal_Detail_03102015_1582.jpg",
-    "width": 1000,
-    "height": 1498,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Klagenfurt_W%C3%B6lfnitz_Filialkirche_St_Peter_am_Bichl_Kirchenportal_Detail_03102015_1582.jpg",
-    "caption": "Klagenfurt"
+    "page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt_Kreuzberglstra%C3%9Fe_20_Relief_13102021_1684.jpg",
+    "caption": "Völkermarkt"
    }
   ],
   "trizeme": [
@@ -1078,13 +1077,40 @@
     "caption": "Raibler See"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lago_del_Predil_und_Monte_Canin_10032015_0507.jpg/1280px-Lago_del_Predil_und_Monte_Canin_10032015_0507.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg/1280px-Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg",
     "width": 1000,
     "height": 667,
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lago_del_Predil_und_Monte_Canin_10032015_0507.jpg",
-    "caption": "Raibler See"
+    "page": "https://commons.wikimedia.org/wiki/File:Passo_del_Predil_Gostilna_Hermanov_und_Grenzstation_10032015_0540.jpg",
+    "caption": "Predilpass"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bovec_aerial_view.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "Damjanleban at Slovenian Wikipedia",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Bovec_aerial_view.jpg",
+    "caption": "Bovec"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Trbiz.JPG/1280px-Trbiz.JPG",
+    "width": 1000,
+    "height": 750,
+    "author": "No machine-readable author provided. Žiga assumed (based on copyright claims).",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Trbiz.JPG",
+    "caption": "Tarvisio"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Polyommatinae_Julian_Alps_Slovenia_2.jpg/1280px-Polyommatinae_Julian_Alps_Slovenia_2.jpg",
+    "width": 1000,
+    "height": 750,
+    "author": "User:Cfp",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Polyommatinae_Julian_Alps_Slovenia_2.jpg",
+    "caption": "Julische Alpen"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg/1280px-Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg",
@@ -1093,33 +1119,6 @@
     "author": "Johann Jaritz",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Rio_del_Lago_Raibler_See_Cima_Predil_und_Predil-Passstrasse_10032015_0510.jpg",
-    "caption": "Raibler See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tarvisio_Lago_del_Predil_Haubitze_Cinque_Punte_Cima_Predil_und_Passstrasse_18032016_1008.jpg/1280px-Tarvisio_Lago_del_Predil_Haubitze_Cinque_Punte_Cima_Predil_und_Passstrasse_18032016_1008.jpg",
-    "width": 1000,
-    "height": 667,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Lago_del_Predil_Haubitze_Cinque_Punte_Cima_Predil_und_Passstrasse_18032016_1008.jpg",
-    "caption": "Raibler See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tarvisio_Lago_del_Predil_Haubitze_Cima_Predil_und_Passstrasse_18032016_1006.jpg/1280px-Tarvisio_Lago_del_Predil_Haubitze_Cima_Predil_und_Passstrasse_18032016_1006.jpg",
-    "width": 1000,
-    "height": 595,
-    "author": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tarvisio_Lago_del_Predil_Haubitze_Cima_Predil_und_Passstrasse_18032016_1006.jpg",
-    "caption": "Raibler See"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lago_del_Predil%2C_Tarvisio%2C_2013.jpg/1280px-Lago_del_Predil%2C_Tarvisio%2C_2013.jpg",
-    "width": 1000,
-    "height": 665,
-    "author": "DimiTalen",
-    "license": "CC0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lago_del_Predil,_Tarvisio,_2013.jpg",
     "caption": "Raibler See"
    }
   ]
