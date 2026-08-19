@@ -4,8 +4,9 @@
  */
 
 import { BASE, formatHours } from "../lib/routes.js";
-import { TAGS } from "../data/routes.js";
+import { TAGS, SIGHT_KIND } from "../data/routes.js";
 import { downloadGpx } from "../lib/gpx.js";
+import { sendGpxToStrava, stravaHeatmap, stravaSegmentUrl } from "../lib/strava.js";
 import Elevation from "./Elevation.jsx";
 import MapView from "./MapView.jsx";
 import { SurfaceBadge, SurfaceDetail } from "./Surface.jsx";
@@ -48,7 +49,7 @@ function Stat({ value, unit, note, accent }) {
   );
 }
 
-export default function RouteCard({ route, open, onToggle }) {
+export default function RouteCard({ route, open, onToggle, planDay }) {
   return (
     <article
       className={`rounded-2xl overflow-hidden bg-card transition-colors ${
@@ -71,6 +72,7 @@ export default function RouteCard({ route, open, onToggle }) {
           <div className="min-w-0 flex-1">
             <h3 className="display text-2xl font-semibold leading-tight">{route.name}</h3>
             <p className="text-sm text-muted leading-snug mt-0.5">{route.claim}</p>
+            {route.via && <p className="text-xs text-teal mt-1">{route.via}</p>}
 
             <div className="flex items-end gap-4 mt-2">
               <Stat value={nb(route.km)} unit="km" note="délka" accent />
@@ -89,6 +91,16 @@ export default function RouteCard({ route, open, onToggle }) {
           >
             {route.kind === "vyjezd" ? "výjezd" : "okruh"}
           </span>
+          {planDay && (
+            <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-teal-soft text-teal">
+              v plánu · {planDay.dow} {planDay.day}
+            </span>
+          )}
+          {route.local && (
+            <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-teal-soft text-teal">
+              tudy jezdí místní
+            </span>
+          )}
           {route.official && (
             <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-teal-soft text-teal">
               {route.official}
@@ -116,6 +128,23 @@ export default function RouteCard({ route, open, onToggle }) {
           <div className="p-4 space-y-5">
             <p className="text-[15px] leading-relaxed">{route.see}</p>
 
+            {(route.swim || route.eat) && (
+              <dl className="space-y-3">
+                {route.swim && (
+                  <div>
+                    <div className="label text-teal mb-1">Koupání</div>
+                    <p className="text-sm leading-relaxed">{route.swim}</p>
+                  </div>
+                )}
+                {route.eat && (
+                  <div>
+                    <div className="label text-warn mb-1">Jídlo</div>
+                    <p className="text-sm leading-relaxed">{route.eat}</p>
+                  </div>
+                )}
+              </dl>
+            )}
+
             {route.sights?.length > 0 && (
               <div>
                 <div className="label text-muted mb-2">Kam se po cestě podívat</div>
@@ -125,10 +154,10 @@ export default function RouteCard({ route, open, onToggle }) {
                       <div className="flex items-baseline gap-2">
                         <span
                           className={`text-[11px] font-medium uppercase tracking-wide ${
-                            s.kind === "pamatka" ? "text-warn" : "text-teal"
+                            s.kind === "pamatka" || s.kind === "jidlo" ? "text-warn" : "text-teal"
                           }`}
                         >
-                          {s.kind === "pamatka" ? "památka" : "krajina"}
+                          {SIGHT_KIND[s.kind] ?? s.kind}
                         </span>
                         <span className="text-sm font-semibold">{s.name}</span>
                       </div>
@@ -153,7 +182,7 @@ export default function RouteCard({ route, open, onToggle }) {
                       />
                       <figcaption className="text-[11px] text-muted mt-1 leading-tight">
                         <span className="font-medium text-ink">{p.caption}</span>
-                        {p.kind === "pamatka" ? " · památka" : " · krajina"}
+                        {p.kind && SIGHT_KIND[p.kind] ? ` · ${SIGHT_KIND[p.kind]}` : " · krajina"}
                         <a
                           href={p.page}
                           target="_blank"
@@ -221,13 +250,35 @@ export default function RouteCard({ route, open, onToggle }) {
               ))}
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               <button
                 onClick={() => downloadGpx(route)}
                 className="py-3 rounded-xl font-medium text-sm bg-ink text-paper"
               >
                 Stáhnout GPX
               </button>
+              <button
+                onClick={() => sendGpxToStrava(route)}
+                className="py-3 rounded-xl font-medium text-sm ring-1 ring-ink"
+              >
+                GPX na Stravu
+              </button>
+              <a
+                href={stravaHeatmap(route)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="py-3 rounded-xl font-medium text-sm text-center ring-1 ring-ink"
+              >
+                Heatmapa — kudy jezdí místní
+              </a>
+              <a
+                href={stravaSegmentUrl(route)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="py-3 rounded-xl font-medium text-sm text-center ring-1 ring-ink"
+              >
+                {route.stravaId ? "Oblíbený segment na Stravě" : "Segmenty na Stravě"}
+              </a>
               <a
                 href={mapyUrl(route)}
                 target="_blank"
@@ -245,6 +296,11 @@ export default function RouteCard({ route, open, onToggle }) {
                 Google Maps
               </a>
             </div>
+            <p className="text-xs text-muted leading-relaxed">
+              Stopa drží asfaltové cyklostezky, kde existují (R2, Alpe-Adria).
+              Kopce jdou po silnici, která na vrchol vede. Heatmapa ukáže hustotu,
+              oblíbený segment konkrétní kopec.
+            </p>
           </div>
         </div>
       )}

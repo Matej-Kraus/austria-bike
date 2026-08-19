@@ -20,6 +20,8 @@ const OUT = join(HERE, "..", "src", "data", "routes.generated.json");
 const CACHE = join(HERE, ".cache");
 
 const PROFILE = "fastbike";
+/* údolní dny můžou mít v routes.js `profile: "fastbike-verylowtraffic"` —
+ * ten drží asfaltové cyklostezky a uhýbá autům, aniž by šel do šotoliny. */
 const SIMPLIFY_M = 12; // tolerance zjednodušení stopy v metrech
 const PROFILE_POINTS = 160; // kolik vzorků má výškový profil
 
@@ -74,25 +76,25 @@ function simplify(pts, tol) {
 }
 
 /* odpovědi si držíme na disku, ať se veřejný server nevolá při každé úpravě */
-async function cached(lonlats) {
-  const key = createHash("sha1").update(`${PROFILE}|${lonlats}`).digest("hex").slice(0, 16);
+async function cached(lonlats, profile) {
+  const key = createHash("sha1").update(`${profile}|${lonlats}`).digest("hex").slice(0, 16);
   const file = join(CACHE, `${key}.json`);
   try {
     return { geo: JSON.parse(await readFile(file, "utf8")), fresh: false };
   } catch {
-    const geo = await brouter(lonlats);
+    const geo = await brouter(lonlats, profile);
     await mkdir(CACHE, { recursive: true });
     await writeFile(file, JSON.stringify(geo));
     return { geo, fresh: true };
   }
 }
 
-async function brouter(lonlats, attempt = 1) {
+async function brouter(lonlats, profile, attempt = 1) {
   const url =
     "https://brouter.de/brouter?" +
     new URLSearchParams({
       lonlats,
-      profile: PROFILE,
+      profile,
       alternativeidx: "0",
       format: "geojson",
     });
@@ -101,7 +103,7 @@ async function brouter(lonlats, attempt = 1) {
   if (!res.ok || text.trimStart().startsWith("operation")) {
     if (attempt >= 4) throw new Error(`BRouter ${res.status}: ${text.slice(0, 200)}`);
     await new Promise((r) => setTimeout(r, 4000 * attempt));
-    return brouter(lonlats, attempt + 1);
+    return brouter(lonlats, profile, attempt + 1);
   }
   return JSON.parse(text);
 }
@@ -314,11 +316,12 @@ function nearestIndex(coords, lat, lon, from = 0) {
 const routes = [];
 
 for (const r of ROUTES) {
+  const profile = r.profile || PROFILE;
   const pts = [[BASE.lon, BASE.lat], ...r.wps.map((w) => [w[2], w[1]]), [BASE.lon, BASE.lat]];
   const lonlats = pts.map(([lo, la]) => `${lo},${la}`).join("|");
 
-  process.stdout.write(`  ${r.id.padEnd(16)} `);
-  const { geo, fresh } = await cached(lonlats);
+  process.stdout.write(`  ${r.id.padEnd(16)} ${profile === PROFILE ? "    " : "stezka"} `);
+  const { geo, fresh } = await cached(lonlats, profile);
   const coords = geo.features[0].geometry.coordinates;
   const { cum, total, elevs, prof, climb, ascent, ascAt } = analyse(coords);
   const surface = surfaceReport(geo.features[0].properties.messages);

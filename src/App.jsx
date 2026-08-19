@@ -1,11 +1,14 @@
 import { useMemo, useState } from "react";
 
 import { ALL_ROUTES, BASE, STATION, STAY, TAGS, formatHours, GENERATED_AT } from "./lib/routes.js";
+import { stravaHeatmap } from "./lib/strava.js";
 import { useWeather, pickForToday } from "./lib/weather.js";
+import { resolveStayPlan } from "./lib/plan.js";
+import { usePlanPicks } from "./lib/usePlanPicks.js";
 import Weather from "./components/Weather.jsx";
+import StayPlan from "./components/StayPlan.jsx";
 import RouteCard from "./components/RouteCard.jsx";
 import MapView from "./components/MapView.jsx";
-import Elevation from "./components/Elevation.jsx";
 import { SurfaceBadge } from "./components/Surface.jsx";
 
 const nb = (v) => String(v).replace(".", ",");
@@ -118,6 +121,7 @@ export default function App() {
   const [timePick, setTimePick] = useState(null);
   const [kmPick, setKmPick] = useState(null);
   const [loopsOnly, setLoopsOnly] = useState(false);
+  const [localOnly, setLocalOnly] = useState(false);
   const [tags, setTags] = useState([]);
   const [pavedOnly, setPavedOnly] = useState(false);
   const [maxKm, setMaxKm] = useState(KM_MAX);
@@ -125,9 +129,19 @@ export default function App() {
   const [sort, setSort] = useState("km");
   const [open, setOpen] = useState(null);
   const [advanced, setAdvanced] = useState(false);
+  const planPicks = usePlanPicks();
 
   const today = weather.data?.days?.[0] ?? null;
-  const pick = useMemo(() => pickForToday(ALL_ROUTES, today), [today]);
+  const stayPlan = useMemo(
+    () => resolveStayPlan(ALL_ROUTES, weather.data?.days, planPicks.picks),
+    [weather.data, planPicks.picks]
+  );
+  const todayIso = new Date().toISOString().slice(0, 10);
+  const stayToday = stayPlan.days.find((d) => d.date === todayIso);
+  const pick = useMemo(() => {
+    if (stayToday?.route) return { route: stayToday.route, why: stayToday.why };
+    return pickForToday(ALL_ROUTES, today);
+  }, [stayToday, today]);
 
   const chooseTime = (id) => {
     const next = timePick === id ? null : id;
@@ -158,6 +172,7 @@ export default function App() {
         r.km <= capKm &&
         r.hm <= maxHm &&
         (!loopsOnly || r.kind !== "vyjezd") &&
+        (!localOnly || r.local) &&
         (!pavedOnly || (r.surface?.unpavedKm ?? 0) < 0.1) &&
         (tags.length === 0 || tags.every((t) => r.tags.includes(t)))
     );
@@ -165,15 +180,17 @@ export default function App() {
       km: (a, b) => a.km - b.km,
       hm: (a, b) => a.hm - b.hm,
       cas: (a, b) => a.hours - b.hours,
+      mistni: (a, b) => Number(b.local) - Number(a.local) || a.km - b.km,
     }[sort];
     return [...filtered].sort(cmp);
-  }, [timePick, kmPick, loopsOnly, tags, pavedOnly, maxKm, maxHm, sort]);
+  }, [timePick, kmPick, loopsOnly, localOnly, tags, pavedOnly, maxKm, maxHm, sort]);
 
-  const active = timePick || kmPick || loopsOnly || tags.length > 0 || pavedOnly || maxKm < KM_MAX || maxHm < HM_MAX;
+  const active = timePick || kmPick || loopsOnly || localOnly || tags.length > 0 || pavedOnly || maxKm < KM_MAX || maxHm < HM_MAX;
   const reset = () => {
     setTimePick(null);
     setKmPick(null);
     setLoopsOnly(false);
+    setLocalOnly(false);
     setTags([]);
     setPavedOnly(false);
     setMaxKm(KM_MAX);
@@ -194,10 +211,22 @@ export default function App() {
           </div>
           <h1 className="display text-6xl font-bold leading-none mt-1">Kam dneska</h1>
           <p className="text-sm text-muted mt-2 max-w-lg leading-relaxed">
-            Každá trasa vyjíždí od ubytování v Sattendorfu a sem se zase vrací. Všechno
-            počítané pro silniční kola, žádný les a žádná šotolina navíc. Nádraží{" "}
+            Každá trasa vyjíždí od ubytování v Sattendorfu a sem se zase vrací.
+            Čistá silnička, žádný šterk. Kde je stezka asfaltová, jedete po ní
+            ve dvou vedle sebe. R3 a Drauradweg ne — ty uhýbají na šotolinu.
+            Kopce (Gerlitzen, Dobratsch, Predil, Vršič) po silnici, která na
+            vrchol vede. Nádraží{" "}
             {STATION.name} je {STATION.walk} m odsud (trať {STATION.line}). Ze Sattendorfu
-            jezdí i loď po jezeře — sezóna do 27. 9., kolo na palubě 5 €.
+            jezdí i loď po jezeře — sezóna do 27. 9., kolo na palubě 5 €.{" "}
+            <a
+              href={stravaHeatmap()}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-teal underline"
+            >
+              Strava heatmapa okolí
+            </a>{" "}
+            ukáže, kudy tu šlapou místní.
           </p>
         </header>
 
@@ -205,9 +234,19 @@ export default function App() {
           <Weather state={weather} />
         </section>
 
-        <div className="mb-6">
-          <TodayPick pick={pick} onOpen={() => openRoute(pick.route.id)} />
-        </div>
+        <StayPlan
+          plan={stayPlan}
+          dirty={planPicks.dirty}
+          onPick={planPicks.setPick}
+          onReset={planPicks.reset}
+          onOpen={openRoute}
+        />
+
+        {!stayToday && (
+          <div className="mb-6">
+            <TodayPick pick={pick} onOpen={() => openRoute(pick.route.id)} />
+          </div>
+        )}
 
         <section className="mb-5">
           <div className="label text-muted mb-2">Kolik máš času</div>
@@ -228,6 +267,9 @@ export default function App() {
             ))}
             <Chip on={loopsOnly} onClick={() => setLoopsOnly(!loopsOnly)}>
               Jen okruhy
+            </Chip>
+            <Chip on={localOnly} onClick={() => setLocalOnly(!localOnly)}>
+              Tudy jezdí místní
             </Chip>
             <Chip on={pavedOnly} onClick={() => setPavedOnly(!pavedOnly)}>
               Jen čistý asfalt
@@ -277,6 +319,7 @@ export default function App() {
               <option value="km">řadit podle km</option>
               <option value="hm">podle převýšení</option>
               <option value="cas">podle času</option>
+              <option value="mistni">nejdřív kudy jezdí místní</option>
             </select>
           </div>
         </div>
@@ -295,6 +338,7 @@ export default function App() {
                 route={route}
                 open={open === route.id}
                 onToggle={() => setOpen(open === route.id ? null : route.id)}
+                planDay={stayPlan.days.find((d) => d.routeId === route.id)}
               />
             </div>
           ))}

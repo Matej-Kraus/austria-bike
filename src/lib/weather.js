@@ -42,7 +42,7 @@ const URL =
     hourly: "temperature_2m,precipitation_probability,weather_code",
     current: "temperature_2m,weather_code,wind_speed_10m",
     timezone: "Europe/Vienna",
-    forecast_days: "7",
+    forecast_days: "16",
   });
 
 export function useWeather() {
@@ -122,6 +122,7 @@ export function pickForToday(routes, today) {
     }
 
     if (r.surface && !r.surface.roadOk) score -= 3;
+    if (r.local) score += 1;
 
     return { route: r, score, why: why[0] };
   });
